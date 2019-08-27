@@ -8,7 +8,7 @@ layout: default
 
 - **Binhang Yuan**, and Wenhui Xing. "Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks." *MLMECH-MICCAI 2019* [\[pdf\]](publications/2019_MICCAI_Diagnosing.pdf)
 
-- Dimitrije Jankov, Shangyu Luo, **Binhang Yuan**, Zhuhua Cai, Jia Zou, Chris Jermaine, and Zekai J Gao. "Declarative recursive computation on an RDBMS: or, why you should use a database for distributed machine learning." *VLDB 2019* <strong><em><span style="color:red"> Honorable mention award </span></em></strong> [\[pdf\]](publications/2019_VLDB_Declarative.pdf)
+- Dimitrije Jankov, Shangyu Luo, **Binhang Yuan**, Zhuhua Cai, Jia Zou, Chris Jermaine, and Zekai J Gao. "Declarative recursive computation on an RDBMS: or, why you should use a database for distributed machine learning." *VLDB 2019* <strong><em><span style="color:red"> (Honorable Mention Award) </span></em></strong> [\[pdf\]](publications/2019_VLDB_Declarative.pdf)
 
 - Jia Zou, R Matthew Barnett, Tania Lorido-Botran, Shangyu Luo, Carlos Monroy, Sourav Sikdar, Kia Teymourian, **Binhang Yuan**, and Chris Jermaine. "PlinyCompute: A platform for high-performance, distributed, data-intensive tool development." *SIGMOD 2018* [\[pdf\]](publications/2018_SIGMOD_PlinyCompute.pdf)
 

@@ -6,9 +6,9 @@ favicon: images/photo.jpeg
 
 navigation:
   - name: Publications
-    url: /publication  
+    url: /publications/publication  
   - name: Experiences 
-    url: /experience
+    url: /experiences/experience
   - name: CV
     url: /resume.pdf
     
