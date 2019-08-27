@@ -4,21 +4,21 @@ layout: default
 
 &nbsp;
 
-## About Me  
+# About Me  
 
 I am a Ph.D. candidate in Computer Science Department Rice University. My adviser is [Dr. Jermaine](https://www.cs.rice.edu/~cmj4/) and co-advised by [Dr. Kyrillidis](https://akyrillidis.github.io/) for my Ph.D. thesis. 
 
 I got my master degree from Computer Science Department Rice University supervised by [Dr. Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department Fudan University guided by  [Dr. Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
 
 
-## Research Interests
+# Research Interests
 
 My main research focuses are distributed machine learning algorithms and systems: in algorithm level, I study how to customize communication schema for model synchronization based on current machine learning systems, e.g., PyTorch; in system level, I study how to deploy the training procedure of large scale machine learning models on distributed database systems.
 
 On the other hand, I am also interested in building data mining/machine learning applications (especially time series) in fields such as wind turbine manufacturing, cardiovascular medicine, and geotechnics.
 
 
-## Selected Pulications
+# Selected Pulications
 
 - **Binhang Yuan**, and Wenhui Xing. "Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks." *MLMECH-MICCAI 2019* [\[pdf\]](publications/2019_MICCAI_Diagnosing.pdf)
 
@@ -33,12 +33,12 @@ On the other hand, I am also interested in building data mining/machine learning
 - Bo Yan, **Binhang Yuan**, and Bo Yang. "Effective video retargeting with jittery assessment". *TMM 2014* [\[pdf\]](publications/2014_TIM_Effective.pdf)
 
 
-## Ongoing projects
+# Ongoing projects
 
 - **Binhang Yuan**, Chen Wang, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletFCNN: A Deep Time Series Classification Model for Wind Turbine Blade Icing Detection" *[arXiv](https://arxiv.org/abs/1902.05625)*
 
 
-## Education
+# Education
 
 - **Ph.D.** Computer Science Department Rice University (*2016 - Present*)
 
@@ -46,7 +46,7 @@ On the other hand, I am also interested in building data mining/machine learning
 
 - **B.S.** Computer Science Department Rice University (*2009 - 2013*)
 
-## Work Experience
+# Work Experience
 
 - **Research Intern** Microsoft Research Asia (*2017/07 - 2017/12*)
 
@@ -55,10 +55,10 @@ On the other hand, I am also interested in building data mining/machine learning
 - **SDE Intern** EMC Software (*2015/05 - 2015/08*)
 
 
-## Academic Service 
+# Academic Service 
 
 - *AAAI 2019* Reviewer
 
-## Hobbies
+# Hobbies
 
 Most of my spare time (if there is any for a graduate student) is spent on soccer. I am a big fan of Cristiano Ronaldo, Jordan Henderson, and Givanildo Vieira de Sousa (known as Hulk). I support Juventus, Liverpool and Shanghai SIPG.
