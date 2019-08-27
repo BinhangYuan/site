@@ -1,14 +1,10 @@
 
 name: Binhang Yuan
-description: Ph.D. Candidate in Computer Science Department Rice University
+description: Ph.D. Candidate @CS Rice
 avatar: images/photo.jpeg
 favicon: images/photo.jpeg
 
 navigation:
-  - name: Publications
-    url: /publication  
-  - name: Experiences 
-    url: /experience
   - name: CV
     url: /resume.pdf
     
