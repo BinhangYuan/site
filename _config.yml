@@ -1,0 +1,59 @@
+
+name: Binhang Yuan
+description: Ph.D. Candidate in Computer Science Department Rice University
+avatar: images/photo.jpeg
+favicon: images/photo.jpeg
+
+navigation:
+  - name: Publications
+    url: /publication  
+  - name: Experiences 
+    url: /experience
+  - name: CV
+    url: /resume.pdf
+    
+paginate: 8
+
+url: 
+baseurl: /
+
+
+footer-links: 
+  email: by8@rice.edu
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=TflKxcIAAAAJ&view_op=list_works&sortby=pubdate"
+
+permalink: /:title/
+paginate_path: /page:num/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+excerpt_separator: ---
