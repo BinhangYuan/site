@@ -1,2 +1,1 @@
-# comp414-514
-Optimization: Algorithms, Complexity &amp; Approximations
+# Binhang Yuan's personal page
