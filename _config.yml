@@ -16,6 +16,7 @@ baseurl: /
 
 footer-links: 
   email: by8@rice.edu
+  github: "BinhangYuan"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=TflKxcIAAAAJ&view_op=list_works&sortby=pubdate"
 
 permalink: /:title/
