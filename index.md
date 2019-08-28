@@ -57,7 +57,7 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Academic Service 
 
-- *AAAI 2019* Reviewer
+- *AAAI 2020* Reviewer
 
 # Hobbies
 
