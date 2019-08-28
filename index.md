@@ -18,7 +18,7 @@ My main research focuses are distributed machine learning algorithms and systems
 On the other hand, I am also interested in building data mining/machine learning applications (especially time series) in fields such as wind turbine manufacturing, cardiovascular medicine, and geotechnics.
 
 
-# Selected Pulications
+# Selected Publications
 
 - **Binhang Yuan**, and Wenhui Xing. "Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks." *MLMECH-MICCAI 2019* [\[pdf\]](publications/2019_MICCAI_Diagnosing.pdf)
 
@@ -33,7 +33,7 @@ On the other hand, I am also interested in building data mining/machine learning
 - Bo Yan, **Binhang Yuan**, and Bo Yang. "Effective video retargeting with jittery assessment". *TMM 2014* [\[pdf\]](publications/2014_TIM_Effective.pdf)
 
 
-# Ongoing projects
+# Ongoing Projects
 
 - **Binhang Yuan**, Chen Wang, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletFCNN: A Deep Time Series Classification Model for Wind Turbine Blade Icing Detection" *[arXiv](https://arxiv.org/abs/1902.05625)*
 
