@@ -23,3 +23,5 @@ layout: default
 
 - **Binhang Yuan**, Chen Wang, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletFCNN: A Deep Time Series Classification Model for Wind Turbine Blade Icing Detection" *[arXiv](https://arxiv.org/abs/1902.05625)*
 
+- **Binhang Yuan**, Anastasios Kyrillidis, Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training" *[arXiv](https://arxiv.org/abs/1910.02120)*
+
