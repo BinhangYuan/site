@@ -36,7 +36,7 @@ On the other hand, I am also interested in building data mining/machine learning
 # Ongoing Projects
 - **Binhang Yuan**, Anastasios Kyrillidis, Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training" *[arXiv](https://arxiv.org/abs/1910.02120)*
 
-- **Binhang Yuan**, Chen Wang, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletFCNN: A Deep Time Series Classification Model for Wind Turbine Blade Icing Detection" *[arXiv](https://arxiv.org/abs/1902.05625)*
+- **Binhang Yuan**, Chen Wang, Chen Luo, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection" *[arXiv](https://arxiv.org/abs/1902.05625)*
 
 
 # Education
@@ -62,4 +62,4 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Hobbies
 
-Most of my spare time (if there is any for a graduate student) is spent on soccer. I am a big fan of Cristiano Ronaldo, Jordan Henderson, and Givanildo Vieira de Sousa (known as Hulk). I support Juventus, Liverpool and Shanghai SIPG.
+Most of my spare time (if there is any for a graduate student) is spent on soccer. I am a big fan of Cristiano Ronaldo, Jurgen Klopp, and Givanildo Vieira de Sousa (known as Hulk). I support Juventus, Liverpool and Shanghai SIPG. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research.
