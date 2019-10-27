@@ -18,19 +18,24 @@ My main research focuses are distributed machine learning algorithms and systems
 On the other hand, I am also interested in building data mining/machine learning applications (especially time series) in fields such as wind turbine manufacturing, cardiovascular medicine, and geotechnics.
 
 
-# Selected Publications
+# Publications
+- **Binhang Yuan**, and Wenhui Xing. “Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks.” In Machine Learning and Medical Engineering for Cardiovascular Health and Intravascular Imaging and Computer Assisted Stenting, pp. 36-44. Springer, Cham.  (*MLMECH-MICCAI 2019*) [\[pdf\]](publications/2019_MICCAI_Diagnosing.pdf)
 
-- **Binhang Yuan**, and Wenhui Xing. "Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks." *MLMECH-MICCAI 2019* [\[pdf\]](publications/2019_MICCAI_Diagnosing.pdf)
+- Dimitrije Jankov, Shangyu Luo, **Binhang Yuan**, Zhuhua Cai, Jia Zou, Chris Jermaine, and Zekai J Gao. "Declarative recursive computation on an RDBMS: or, why you should use a database for distributed machine learning." In Proceedings of the VLDB Endowment, 12(7), 822-835. (*VLDB 2019* <strong><em><span style="color:red"> Best Paper Honorable Mention Award) </span></em></strong> [\[pdf\]](publications/2019_VLDB_Declarative.pdf)
 
-- Dimitrije Jankov, Shangyu Luo, **Binhang Yuan**, Zhuhua Cai, Jia Zou, Chris Jermaine, and Zekai J Gao. "Declarative recursive computation on an RDBMS: or, why you should use a database for distributed machine learning." *VLDB 2019* <strong><em><span style="color:red"> (Honorable Mention Award) </span></em></strong> [\[pdf\]](publications/2019_VLDB_Declarative.pdf)
+- Jia Zou, R Matthew Barnett, Tania Lorido-Botran, Shangyu Luo, Carlos Monroy, Sourav Sikdar, Kia Teymourian, **Binhang Yuan**, and Chris Jermaine. "PlinyCompute: A platform for high-performance, distributed, data-intensive tool development." In Proceedings of the 2018 International Conference on Management of Data(pp. 1189-1204). ACM. (*SIGMOD 2018*) [\[pdf\]](publications/2018_SIGMOD_PlinyCompute.pdf)
 
-- Jia Zou, R Matthew Barnett, Tania Lorido-Botran, Shangyu Luo, Carlos Monroy, Sourav Sikdar, Kia Teymourian, **Binhang Yuan**, and Chris Jermaine. "PlinyCompute: A platform for high-performance, distributed, data-intensive tool development." *SIGMOD 2018* [\[pdf\]](publications/2018_SIGMOD_PlinyCompute.pdf)
+- **Binhang Yuan**, Vijayaraghavan Murali, and Chris Jermaine. "Abridging source code." In Proceedings of the ACM on Programming Languages 1.OOPSLA (2017): 58. (*OOPSLA 2017*) [\[pdf\]](publications/2017_OOPSLA_Generating.pdf)
 
-- **Binhang Yuan**, Vijayaraghavan Murali, and Chris Jermaine. "Abridging source code." *OOPSLA 2017* [\[pdf\]](publications/2017_OOPSLA_Generating.pdf)
+- **Binhang Yuan**, Ronald N Goldman, Eric Wang, Olushola Olorunnipa, and David Y Khechoyan. "Generating a 3D Normative Infant Cranial Model." In Procedia Computer Science. 2016 Dec 31;80:988-98. (*ICCS 2016*) [\[pdf\]](publications/2016_ICCS_Generating.pdf)
 
-- **Binhang Yuan**, Ronald N Goldman, Eric Wang, Olushola Olorunnipa, and David Y Khechoyan. "Generating a 3D Normative Infant Cranial Model." *ICCS 2016* [\[pdf\]](publications/2016_ICCS_Generating.pdf)
+- **Binhang Yuan**, David Y Khechoyan, and Ronald N Goldman. “A New Objective Automatic Computational Framework for Visualizing the Results of Infant Cranial Surgery”, International Conference on Biomedical Computing 2014. [\[pdf\]](publications/2014_ICBC_A.pdf)
 
-- Bo Yan, **Binhang Yuan**, and Bo Yang. "Effective video retargeting with jittery assessment". *TMM 2014* [\[pdf\]](publications/2014_TIM_Effective.pdf)
+- Ke Li, Bo Yan, and **Binhang Yuan**. “A new metric to assess temporal coherence for video retargeting”, In SPIE/COS Photonics Asia (pp. 92732Z-92732Z). International Society for Optics and Photonics, October. 2014. [\[pdf\]](publications/2014_SPIE_A.pdf)
+
+
+- Bo Yan, **Binhang Yuan**, and Bo Yang. "Effective video retargeting with jittery assessment". In IEEE Transactions on Multimedia, Vol. 16, Issue 1, pp. 272-277, Jan. 2014. (*TMM 2014*) [\[pdf\]](publications/2014_TIM_Effective.pdf)
+
 
 
 # Ongoing Projects
