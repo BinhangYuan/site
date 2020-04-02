@@ -50,7 +50,7 @@ On the other hand, I am also interested in building data mining/machine learning
 
 - **M.S.** Computer Science Department Rice University (*2013 - 2016*)
 
-- **B.S.** Computer Science Department Rice University (*2009 - 2013*)
+- **B.S.** Computer Science Department Fudan University (*2009 - 2013*)
 
 # Work Experience
 
