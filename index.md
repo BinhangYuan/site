@@ -39,6 +39,8 @@ On the other hand, I am also interested in building data mining/machine learning
 
 
 # Ongoing Projects
+- **Binhang Yuan**, Song Ge, Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" *[arXiv](https://arxiv.org/abs/2005.05083)*
+
 - **Binhang Yuan**, Anastasios Kyrillidis, Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training" *[arXiv](https://arxiv.org/abs/1910.02120)*
 
 - **Binhang Yuan**, Chen Wang, Chen Luo, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection" *[arXiv](https://arxiv.org/abs/1902.05625)*
@@ -64,6 +66,7 @@ On the other hand, I am also interested in building data mining/machine learning
 # Academic Service 
 
 - *AAAI 2020* Reviewer
+- *NeurIPS 2020* Reviewer
 
 # Hobbies
 
