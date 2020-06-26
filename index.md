@@ -19,6 +19,9 @@ On the other hand, I am also interested in building data mining/machine learning
 
 
 # Publications
+
+- **Binhang Yuan**, Song Ge, Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" ICML 2020 Workshop ML for Global Health. [\[poster\]](publications/2020_ICML_ML4GlobalHealth_Federated_Poster.pdf) *[arXiv](https://arxiv.org/abs/2005.05083)*
+
 - **Binhang Yuan**, and Wenhui Xing. “Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks.” In Machine Learning and Medical Engineering for Cardiovascular Health and Intravascular Imaging and Computer Assisted Stenting, pp. 36-44. Springer, Cham.  (*MLMECH-MICCAI 2019*) [\[pdf\]](publications/2019_MICCAI_Diagnosing.pdf)
 
 - Dimitrije Jankov, Shangyu Luo, **Binhang Yuan**, Zhuhua Cai, Jia Zou, Chris Jermaine, and Zekai J Gao. "Declarative recursive computation on an RDBMS: or, why you should use a database for distributed machine learning." In Proceedings of the VLDB Endowment, 12(7), 822-835. (*VLDB 2019* <strong><em><span style="color:red"> Best Paper Honorable Mention Award</span></em></strong>) [\[pdf\]](publications/2019_VLDB_Declarative.pdf)
@@ -39,9 +42,8 @@ On the other hand, I am also interested in building data mining/machine learning
 
 
 # Ongoing Projects
-- **Binhang Yuan**, Song Ge, Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" *[arXiv](https://arxiv.org/abs/2005.05083)*
 
-- **Binhang Yuan**, Anastasios Kyrillidis, Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training" *[arXiv](https://arxiv.org/abs/1910.02120)*
+- **Binhang Yuan**, Chen Dun, Anastasios Kyrillidis, Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training" *[arXiv](https://arxiv.org/abs/1910.02120)*
 
 - **Binhang Yuan**, Chen Wang, Chen Luo, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection" *[arXiv](https://arxiv.org/abs/1902.05625)*
 
