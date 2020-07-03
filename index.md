@@ -20,7 +20,7 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Publications
 
-- **Binhang Yuan**, Song Ge, Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" ICML 2020 Workshop ML for Global Health. [\[poster\]](publications/2020_ICML_ML4GlobalHealth_Federated_Poster.pdf) *[arXiv](https://arxiv.org/abs/2005.05083)*
+- **Binhang Yuan**, Song Ge, Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" ICML 2020 Workshop ML for Global Health.\[[poster](publications/2020_ICML_ML4GlobalHealth_Federated_Poster.pdf), *[arXiv](https://arxiv.org/abs/2005.05083)* \]
 
 - **Binhang Yuan**, and Wenhui Xing. “Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks.” In Machine Learning and Medical Engineering for Cardiovascular Health and Intravascular Imaging and Computer Assisted Stenting, pp. 36-44. Springer, Cham.  (*MLMECH-MICCAI 2019*) [\[pdf\]](publications/2019_MICCAI_Diagnosing.pdf)
 
@@ -43,11 +43,11 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Preprint Works
 
-- Jia Zou, Pratik Barhate, Amitabh Das, Arun Iyengar, **Binhang Yuan**, Dimitrije Jankov, and Chris Jermaine. "Lachesis: Automated Generation of Persistent Partitionings for Big Data Applications" *[arXiv](https://arxiv.org/abs/2006.16529)*
+- Jia Zou, Pratik Barhate, Amitabh Das, Arun Iyengar, **Binhang Yuan**, Dimitrije Jankov, and Chris Jermaine. "Lachesis: Automated Generation of Persistent Partitionings for Big Data Applications" *[\[arXiv\]](https://arxiv.org/abs/2006.16529)*
 
-- **Binhang Yuan**, Chen Dun, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training" *[arXiv](https://arxiv.org/abs/1910.02120)*
+- **Binhang Yuan**, Chen Dun, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training" *[\[arXiv\]](https://arxiv.org/abs/1910.02120)*
 
-- **Binhang Yuan**, Chen Wang, Chen Luo, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection" *[arXiv](https://arxiv.org/abs/1902.05625)*
+- **Binhang Yuan**, Chen Wang, Chen Luo, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection" *[\[arXiv\]](https://arxiv.org/abs/1902.05625)*
 
 
 # Education
