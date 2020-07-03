@@ -41,9 +41,11 @@ On the other hand, I am also interested in building data mining/machine learning
 
 
 
-# Ongoing Projects
+# Preprint Works
 
-- **Binhang Yuan**, Chen Dun, Anastasios Kyrillidis, Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training" *[arXiv](https://arxiv.org/abs/1910.02120)*
+- Jia Zou, Pratik Barhate, Amitabh Das, Arun Iyengar, **Binhang Yuan**, Dimitrije Jankov, and Chris Jermaine. "Lachesis: Automated Generation of Persistent Partitionings for Big Data Applications" *[arXiv](https://arxiv.org/abs/2006.16529)*
+
+- **Binhang Yuan**, Chen Dun, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training" *[arXiv](https://arxiv.org/abs/1910.02120)*
 
 - **Binhang Yuan**, Chen Wang, Chen Luo, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection" *[arXiv](https://arxiv.org/abs/1902.05625)*
 
