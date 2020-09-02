@@ -45,13 +45,13 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Preprint Works
 
-- **Binhang Yuan**, Dimitrije Jankov, Jia Zou, Yuxin Tang, Daniel Bourgeois, and and Chris Jermaine. "Tensor Relational Algebra for Machine Learning System Design". \[[pdf](publications/2020_Preprint_Tenser_draft.pdf), *[arXiv](https://arxiv.org/abs/2009.00524)*\]
+- **Binhang Yuan**, Dimitrije Jankov, Jia Zou, Yuxin Tang, Daniel Bourgeois, and and Chris Jermaine. "Tensor Relational Algebra for Machine Learning System Design." \[[pdf](publications/2020_Preprint_Tenser_draft.pdf), *[arXiv](https://arxiv.org/abs/2009.00524)*\]
 
-- Jia Zou, Pratik Barhate, Amitabh Das, Arun Iyengar, **Binhang Yuan**, Dimitrije Jankov, and Chris Jermaine. "Lachesis: Automated Generation of Persistent Partitionings for Big Data Applications". \[*[arXiv](https://arxiv.org/abs/2006.16529)*\]
+- Jia Zou, Pratik Barhate, Amitabh Das, Arun Iyengar, **Binhang Yuan**, Dimitrije Jankov, and Chris Jermaine. "Lachesis: Automated Generation of Persistent Partitionings for Big Data Applications." \[*[arXiv](https://arxiv.org/abs/2006.16529)*\]
 
-- **Binhang Yuan**, Chen Dun, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training". \[*[arXiv](https://arxiv.org/abs/1910.02120)*\]
+- **Binhang Yuan**, Chen Dun, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training." \[*[arXiv](https://arxiv.org/abs/1910.02120)*\]
 
-- **Binhang Yuan**, Chen Wang, Chen Luo, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection". \[*[arXiv](https://arxiv.org/abs/1902.05625)*\]
+- **Binhang Yuan**, Chen Wang, Chen Luo, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection." \[*[arXiv](https://arxiv.org/abs/1902.05625)*\]
 
 
 # Education
