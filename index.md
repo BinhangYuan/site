@@ -43,7 +43,7 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Preprint Works
 
-- **Binhang Yuan**, Dimitrije Jankov, Jia Zou, Yuxin Tang, Daniel Bourgeois, and and Chris Jermaine. "Tensor Relational Algebra for Machine Learning System Design". \[[pdf](publications/2020_Preprint_Tenser_draft.pdf)\]
+- **Binhang Yuan**, Dimitrije Jankov, Jia Zou, Yuxin Tang, Daniel Bourgeois, and and Chris Jermaine. "Tensor Relational Algebra for Machine Learning System Design". \[[pdf](publications/2020_Preprint_Tenser_draft.pdf), *[arXiv](https://arxiv.org/abs/2009.00524)*\]
 
 - Jia Zou, Pratik Barhate, Amitabh Das, Arun Iyengar, **Binhang Yuan**, Dimitrije Jankov, and Chris Jermaine. "Lachesis: Automated Generation of Persistent Partitionings for Big Data Applications". \[*[arXiv](https://arxiv.org/abs/2006.16529)*\]
 
