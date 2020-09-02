@@ -73,9 +73,9 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Academic Service 
 
-- *AAAI 2020, 2021* Reviewer
-- *NeurIPS 2020* Reviewer
-- *IEEE Access 2020* Reviewer
+- *AAAI Reviewer*: 2020, 2021
+- *NeurIPS Reviewer*: 2020
+- *IEEE Access Reviewer*: 2020
 
 # Hobbies
 
