@@ -20,7 +20,9 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Publications
 
-- **Binhang Yuan**, Song Ge, Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" ICML 2020 Workshop ML for Global Health. \[[poster](publications/2020_ICML_ML4GlobalHealth_Federated_Poster.pdf), *[arXiv](https://arxiv.org/abs/2005.05083)*\]
+- **Binhang Yuan**, Song Ge, and Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" ICML 2020 Workshop ML for Global Health. \[[poster](publications/2020_ICML_ML4GlobalHealth_Federated_Poster.pdf), *[arXiv](https://arxiv.org/abs/2005.05083)*\]
+
+- Kou, Miaomiao, Jing Bi, **Binhang Yuan**, and Yunteng Wang. "Peridynamic analysis of dynamic fracture behaviors in FGMs with different gradient directions." Structural Engineering and Mechanics 75, no. 3 (2020): 339-356. 
 
 - **Binhang Yuan**, and Wenhui Xing. “Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks.” In Machine Learning and Medical Engineering for Cardiovascular Health and Intravascular Imaging and Computer Assisted Stenting, pp. 36-44. Springer, Cham.  (*MLMECH-MICCAI 2019*) \[[pdf](publications/2019_MICCAI_Diagnosing.pdf)\]
 
