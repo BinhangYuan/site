@@ -6,7 +6,9 @@ layout: default
 
 # About Me  
 
-I am a Ph.D. candidate in Computer Science Department Rice University. My adviser is [Dr. Jermaine](https://www.cs.rice.edu/~cmj4/) and co-advised by [Dr. Kyrillidis](https://akyrillidis.github.io/) for my Ph.D. thesis. 
+I will join Dr. [Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html)'s group as a Postdoctoral Researcher in March 2021. 
+
+I accomplished my Ph.D. program in Computer Science Department Rice University. My adviser is [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis). 
 
 I got my master degree from Computer Science Department Rice University supervised by [Dr. Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department Fudan University guided by  [Dr. Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
 
@@ -26,7 +28,7 @@ On the other hand, I am also interested in building data mining/machine learning
 
 - **Binhang Yuan**, and Wenhui Xing. “Diagnosing Cardiac Abnormalities from 12-Lead Electrocardiograms Using Enhanced Deep Convolutional Neural Networks.” In Machine Learning and Medical Engineering for Cardiovascular Health and Intravascular Imaging and Computer Assisted Stenting, pp. 36-44. Springer, Cham.  (*MLMECH-MICCAI 2019*) \[[pdf](publications/2019_MICCAI_Diagnosing.pdf)\]
 
-- Dimitrije Jankov, Shangyu Luo, **Binhang Yuan**, Zhuhua Cai, Jia Zou, Chris Jermaine, and Zekai J Gao. "Declarative recursive computation on an RDBMS: or, why you should use a database for distributed machine learning." In Proceedings of the VLDB Endowment, 12(7), 822-835. (*VLDB 2019* <strong><em><span style="color:red"> Best Paper Honorable Mention Award</span></em></strong>, *SIGMOD 2020 Record*) \[[pdf](publications/2019_VLDB_Declarative.pdf)\]
+- Dimitrije Jankov, Shangyu Luo, **Binhang Yuan**, Zhuhua Cai, Jia Zou, Chris Jermaine, and Zekai J Gao. "Declarative recursive computation on an RDBMS: or, why you should use a database for distributed machine learning." In Proceedings of the VLDB Endowment, 12(7), 822-835. (*VLDB 2019* <strong><em><span style="color:red"> Best Paper Honorable Mention Award</span></em></strong>, *SIGMOD 2020* <strong><em><span style="color:red">Reserch Highlight</span></em></strong>) \[[pdf](publications/2019_VLDB_Declarative.pdf)\]
 
 - Jia Zou, R Matthew Barnett, Tania Lorido-Botran, Shangyu Luo, Carlos Monroy, Sourav Sikdar, Kia Teymourian, **Binhang Yuan**, and Chris Jermaine. "PlinyCompute: A platform for high-performance, distributed, data-intensive tool development." In Proceedings of the 2018 International Conference on Management of Data(pp. 1189-1204). ACM. (*SIGMOD 2018*) \[[pdf](publications/2018_SIGMOD_PlinyCompute.pdf)\]
 
@@ -56,11 +58,11 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Education
 
-- **Ph.D.** Computer Science Department Rice University (*2016 - Present*)
+- **Ph.D.** Computer Science Department Rice University (*2016/08 - 2020/12*)
 
-- **M.S.** Computer Science Department Rice University (*2013 - 2016*)
+- **M.S.** Computer Science Department Rice University (*2013/08 - 2016/05*)
 
-- **B.S.** Computer Science Department Fudan University (*2009 - 2013*)
+- **B.S.** Computer Science Department Fudan University (*2009/09 - 2013/07*)
 
 # Work Experience
 
@@ -73,10 +75,11 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Academic Service 
 
+- *ICML Reviewer*: 2021
 - *AAAI Reviewer*: 2020, 2021
 - *NeurIPS Reviewer*: 2020
 - *IEEE Access Reviewer*: 2020
 
 # Hobbies
 
-Most of my spare time (if there is any for a graduate student) is spent on soccer. I am a big fan of Cristiano Ronaldo, Jurgen Klopp, and Givanildo Vieira de Sousa (known as Hulk). I support Juventus, Liverpool and Shanghai SIPG. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research.
+Most of my spare time (if there is any for a graduate student) is spent on soccer. I am a big fan of Cristiano Ronaldo and Jurgen Klopp. I support Juventus, Liverpool and Shanghai SIPG. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research, I believe.
