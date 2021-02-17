@@ -22,6 +22,8 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Publications
 
+- Dimitrije Jankov, **Binhang Yuan**,  Shangyu Luo, and Chris Jermaine. "Distributed Numerical and Machine Learning Computations via Two-Phase Execution of Aggregated Join Trees" to appear in Proceeding of VLDB Vol 14 (*VLDB 2021*) 
+
 - **Binhang Yuan**, Song Ge, and Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" ICML 2020 Workshop ML for Global Health. \[[poster](publications/2020_ICML_ML4GlobalHealth_Federated_Poster.pdf), *[arXiv](https://arxiv.org/abs/2005.05083)*\]
 
 - Kou, Miaomiao, Jing Bi, **Binhang Yuan**, and Yunteng Wang. "Peridynamic analysis of dynamic fracture behaviors in FGMs with different gradient directions." Structural Engineering and Mechanics 75, no. 3 (2020): 339-356. 
