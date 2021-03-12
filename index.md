@@ -22,7 +22,9 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Publications
 
-- Dimitrije Jankov, **Binhang Yuan**,  Shangyu Luo, and Chris Jermaine. "Distributed Numerical and Machine Learning Computations via Two-Phase Execution of Aggregated Join Trees" to appear in Proceeding of VLDB Vol 14 (*VLDB 2021*) 
+- Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra" to appear in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
+
+- Dimitrije Jankov, **Binhang Yuan**, Shangyu Luo, and Chris Jermaine. "Distributed Numerical and Machine Learning Computations via Two-Phase Execution of Aggregated Join Trees" to appear in Proceeding of VLDB Vol 14 (*VLDB 2021*) 
 
 - **Binhang Yuan**, Song Ge, and Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" ICML 2020 Workshop ML for Global Health. \[[poster](publications/2020_ICML_ML4GlobalHealth_Federated_Poster.pdf), *[arXiv](https://arxiv.org/abs/2005.05083)*\]
 
