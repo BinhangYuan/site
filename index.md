@@ -22,9 +22,13 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Publications
 
-- Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra" to appear in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
+- **Binhang Yuan**, Dimitrije Jankov, Jia Zou, Yuxin Tang, Daniel Bourgeois, and Chris Jermaine. "Tensor Relational Algebra for Machine Learning System Design." to appear in Proceeding of VLDB Vol 14 (*VLDB 2021*)
 
-- Dimitrije Jankov, **Binhang Yuan**, Shangyu Luo, and Chris Jermaine. "Distributed Numerical and Machine Learning Computations via Two-Phase Execution of Aggregated Join Trees" to appear in Proceeding of VLDB Vol 14 (*VLDB 2021*) 
+- Jia Zou, Pratik Barhate, Amitabh Das, Arun Iyengar, **Binhang Yuan**, Dimitrije Jankov, and Chris Jermaine. "Lachesis: Automated Generation of Persistent Partitionings for Big Data Applications." to appear in Proceeding of VLDB Vol 14 (*VLDB 2021*) 
+
+- Dimitrije Jankov, **Binhang Yuan**, Shangyu Luo, and Chris Jermaine. "Distributed Numerical and Machine Learning Computations via Two-Phase Execution of Aggregated Join Trees." to appear in Proceeding of VLDB Vol 14 (*VLDB 2021*) 
+
+- Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra." to appear in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
 
 - **Binhang Yuan**, Song Ge, and Wenhui Xing. "A Federated Learning Framework for Healthcare IoT devices" ICML 2020 Workshop ML for Global Health. \[[poster](publications/2020_ICML_ML4GlobalHealth_Federated_Poster.pdf), *[arXiv](https://arxiv.org/abs/2005.05083)*\]
 
@@ -50,10 +54,6 @@ On the other hand, I am also interested in building data mining/machine learning
 
 
 # Preprint Works
-
-- **Binhang Yuan**, Dimitrije Jankov, Jia Zou, Yuxin Tang, Daniel Bourgeois, and and Chris Jermaine. "Tensor Relational Algebra for Machine Learning System Design." \[[pdf](publications/2020_Preprint_Tenser_draft.pdf), *[arXiv](https://arxiv.org/abs/2009.00524)*\]
-
-- Jia Zou, Pratik Barhate, Amitabh Das, Arun Iyengar, **Binhang Yuan**, Dimitrije Jankov, and Chris Jermaine. "Lachesis: Automated Generation of Persistent Partitionings for Big Data Applications." \[*[arXiv](https://arxiv.org/abs/2006.16529)*\]
 
 - **Binhang Yuan**, Chen Dun, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training." \[*[arXiv](https://arxiv.org/abs/1910.02120)*\]
 
