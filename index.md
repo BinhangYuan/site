@@ -6,11 +6,8 @@ layout: default
 
 # About Me  
 
-I will join Dr. [Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html)'s group in Computer Science Department ETH Zurich, as a Postdoctoral Researcher in March 2021. 
-
-I accomplished my Ph.D. program in Computer Science Department Rice University. My adviser is [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). 
-
-I got my master degree from Computer Science Department Rice University supervised by [Dr. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department Fudan University guided by  [Dr. Bo Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
+I am a Postdoctoral Researcher in Computer Science Department, ETH Zurich under the supervision of Dr. [Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html).
+I accomplished my Ph.D. program in Computer Science Department Rice University. My adviser is [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department Rice University supervised by [Dr. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department Fudan University guided by  [Dr. Bo Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
 
 
 # Research Interests
