@@ -87,4 +87,4 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Hobbies
 
-Most of my spare time (if there is any for a graduate student) is spent on soccer. I am a big fan of Cristiano Ronaldo and Jurgen Klopp. I support Juventus, Liverpool and Shanghai SIPG. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research, I believe.
+Most of my spare time (if there is any) is spent on soccer. I am a big fan of Cristiano Ronaldo and Jurgen Klopp. I support Juventus, Liverpool and Shanghai SIPG. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research, I believe.
