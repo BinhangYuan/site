@@ -21,7 +21,7 @@ On the other hand, I am also interested in building data mining/machine learning
 
 - Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra." to appear in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
 
-- Huaqing Jin, Guosheng Yin, **Binhang Yuan**, and Fei Jiang. "Bayesian Hierarchical Modeling for Multivariate Change Point Detection." to appear in Technometrics, 2021. 
+- Huaqing Jin, Guosheng Yin, **Binhang Yuan**, and Fei Jiang. "Bayesian Hierarchical Modeling for Multivariate Change Point Detection." In Technometrics, 2021. 
 
 - Chengbin Huang, Weiting Chen, Mingsong Chen, and **Binhang Yuan**. "A Feature Fusion Framework and Its Application to Automatic Seizure Detection." IEEE Signal Processing Letters (2021).
 
