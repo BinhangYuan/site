@@ -19,7 +19,7 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Publications
 
-- Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra." to appear in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
+- Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra." in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
 
 - Huaqing Jin, Guosheng Yin, **Binhang Yuan**, and Fei Jiang. "Bayesian Hierarchical Modeling for Multivariate Change Point Detection." In Technometrics, 2021. 
 
@@ -83,7 +83,7 @@ On the other hand, I am also interested in building data mining/machine learning
 
 - *AAAI Reviewer*: 2020, 2021
 - *ICLR Reviewer*: 2022
-- *ICML Reviewer*: 2021
+- *ICML Reviewer*: 2021, 2022
 - *IEEE Access Reviewer*: 2020
 - *NeurIPS Reviewer*: 2020, 2021
 
