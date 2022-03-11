@@ -19,6 +19,10 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Selected Publications
 
+- Shaoduo Gan, Xiangru Lian, Rui Wang, Jianbin Chang, Chengjun Liu, Hongmei Shi, Shengzhuo Zhang, Xianghong Li, Tengxu Sun, Jiawei Jiang, **Binhang Yuan**, Sen Yang, Ji Liu, Ce Zhang. BAGUA: Scaling up Distributed Learning with System Relaxations. To appear in Proceedings of the VLDB Endowment, 15 (*VLDB 2022*) 
+
+- Lijie Xu, Shuang Qiu, **Binhang Yuan**, Jiawei Jiang, Cedric Renggli, Shaoduo Gan, Kaan Kara, Guoliang Li, Ji Liu, Wentao Wu, Jieping Ye, Ce Zhang. In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle. To appear in Proceedings of the 2022 International Conference on Management of Data. ACM. (*SIGMOD 2022*)
+
 - Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra." in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
 
 - **Binhang Yuan**, Dimitrije Jankov, Jia Zou, Yuxin Tang, Daniel Bourgeois, and Chris Jermaine. "Tensor Relational Algebra for Machine Learning System Design." In Proceedings of the VLDB Endowment, 14(8), 1338-1350 (*VLDB 2021*)
@@ -27,13 +31,13 @@ On the other hand, I am also interested in building data mining/machine learning
 
 - Dimitrije Jankov, **Binhang Yuan**, Shangyu Luo, and Chris Jermaine. "Distributed Numerical and Machine Learning Computations via Two-Phase Execution of Aggregated Join Trees." In Proceedings of the VLDB Endowment, 14(7), 1228-1240. (*VLDB 2021*) 
 
-- Dimitrije Jankov, Shangyu Luo, **Binhang Yuan**, Zhuhua Cai, Jia Zou, Chris Jermaine, and Zekai J Gao. "Declarative recursive computation on an RDBMS: or, why you should use a database for distributed machine learning." In Proceedings of the VLDB Endowment, 12(7), 822-835. (*VLDB 2019* <strong><em><span style="color:red"> Best Paper Honorable Mention Award</span></em></strong>, *SIGMOD 2020* <strong><em><span style="color:red">Reserch Highlight</span></em></strong>) \[[pdf](publications/2019_VLDB_Declarative.pdf)\]
+- Dimitrije Jankov, Shangyu Luo, **Binhang Yuan**, Zhuhua Cai, Jia Zou, Chris Jermaine, and Zekai J Gao. "Declarative recursive computation on an RDBMS: or, why you should use a database for distributed machine learning." In Proceedings of the VLDB Endowment, 12(7), 822-835. (*VLDB 2019* <strong><em><span style="color:red"> Best Paper Honorable Mention Award</span></em></strong>, *SIGMOD 2020* <strong><em><span style="color:red">Reserch Highlight</span></em></strong>) 
 
-- Jia Zou, R Matthew Barnett, Tania Lorido-Botran, Shangyu Luo, Carlos Monroy, Sourav Sikdar, Kia Teymourian, **Binhang Yuan**, and Chris Jermaine. "PlinyCompute: A platform for high-performance, distributed, data-intensive tool development." In Proceedings of the 2018 International Conference on Management of Data(pp. 1189-1204). ACM. (*SIGMOD 2018*) \[[pdf](publications/2018_SIGMOD_PlinyCompute.pdf)\]
+- Jia Zou, R Matthew Barnett, Tania Lorido-Botran, Shangyu Luo, Carlos Monroy, Sourav Sikdar, Kia Teymourian, **Binhang Yuan**, and Chris Jermaine. "PlinyCompute: A platform for high-performance, distributed, data-intensive tool development." In Proceedings of the 2018 International Conference on Management of Data(pp. 1189-1204). ACM. (*SIGMOD 2018*)
 
-- **Binhang Yuan**, Vijayaraghavan Murali, and Chris Jermaine. "Abridging source code." In Proceedings of the ACM on Programming Languages 1.OOPSLA (2017): 58. (*OOPSLA 2017*) \[[pdf](publications/2017_OOPSLA_Abridging.pdf)\]
+- **Binhang Yuan**, Vijayaraghavan Murali, and Chris Jermaine. "Abridging source code." In Proceedings of the ACM on Programming Languages 1.OOPSLA (2017): 58. (*OOPSLA 2017*)
 
-- Bo Yan, **Binhang Yuan**, and Bo Yang. "Effective video retargeting with jittery assessment". In IEEE Transactions on Multimedia, Vol. 16, Issue 1, pp. 272-277, Jan. 2014. (*TMM 2014*) \[[pdf](publications/2014_TIM_Effective.pdf)\]
+- Bo Yan, **Binhang Yuan**, and Bo Yang. "Effective video retargeting with jittery assessment". In IEEE Transactions on Multimedia, Vol. 16, Issue 1, pp. 272-277, Jan. 2014. (*TMM 2014*)
 
 
 
@@ -68,6 +72,7 @@ On the other hand, I am also interested in building data mining/machine learning
 - *ICLR Reviewer*: 2022
 - *ICML Reviewer*: 2021, 2022
 - *NeurIPS Reviewer*: 2020, 2021
+- *MLsys AE PC member*: 2022
 - *PVLDB Reviewer*: 2022-2023
 - *IEEE Access Reviewer*: 2020
 - *IEEE TKDE Reviewer*: 2022
