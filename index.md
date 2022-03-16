@@ -19,11 +19,11 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Selected Publications
 
-- Lijie Xu, Shuang Qiu, **Binhang Yuan**, Jiawei Jiang, Cedric Renggli, Shaoduo Gan, Kaan Kara, Guoliang Li, Ji Liu, Wentao Wu, Jieping Ye, Ce Zhang. In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle. To appear in Proceedings of the 2022 International Conference on Management of Data. ACM. (*SIGMOD 2022*)
+- Lijie Xu, Shuang Qiu, **Binhang Yuan**, Jiawei Jiang, Cedric Renggli, Shaoduo Gan, Kaan Kara, Guoliang Li, Ji Liu, Wentao Wu, Jieping Ye, and Ce Zhang. In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle. To appear in Proceedings of the 2022 International Conference on Management of Data. ACM. (*SIGMOD 2022*)
 
 - **Binhang Yuan**, Cameron R. Wolfe, Chen Dun, Yuxin Tang, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training."  To appear in Proceedings of the VLDB Endowment, 15. (*VLDB 2022*) 
 
-- Shaoduo Gan, Xiangru Lian, Rui Wang, Jianbin Chang, Chengjun Liu, Hongmei Shi, Shengzhuo Zhang, Xianghong Li, Tengxu Sun, Jiawei Jiang, **Binhang Yuan**, Sen Yang, Ji Liu, Ce Zhang. BAGUA: Scaling up Distributed Learning with System Relaxations. To appear in Proceedings of the VLDB Endowment, 15. (*VLDB 2022*) 
+- Shaoduo Gan, Xiangru Lian, Rui Wang, Jianbin Chang, Chengjun Liu, Hongmei Shi, Shengzhuo Zhang, Xianghong Li, Tengxu Sun, Jiawei Jiang, **Binhang Yuan**, Sen Yang, Ji Liu, and Ce Zhang. BAGUA: Scaling up Distributed Learning with System Relaxations. To appear in Proceedings of the VLDB Endowment, 15. (*VLDB 2022*) 
 
 - Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra." in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
 
