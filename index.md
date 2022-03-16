@@ -19,9 +19,11 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Selected Publications
 
-- Shaoduo Gan, Xiangru Lian, Rui Wang, Jianbin Chang, Chengjun Liu, Hongmei Shi, Shengzhuo Zhang, Xianghong Li, Tengxu Sun, Jiawei Jiang, **Binhang Yuan**, Sen Yang, Ji Liu, Ce Zhang. BAGUA: Scaling up Distributed Learning with System Relaxations. To appear in Proceedings of the VLDB Endowment, 15 (*VLDB 2022*) 
-
 - Lijie Xu, Shuang Qiu, **Binhang Yuan**, Jiawei Jiang, Cedric Renggli, Shaoduo Gan, Kaan Kara, Guoliang Li, Ji Liu, Wentao Wu, Jieping Ye, Ce Zhang. In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle. To appear in Proceedings of the 2022 International Conference on Management of Data. ACM. (*SIGMOD 2022*)
+
+- **Binhang Yuan**, Cameron R. Wolfe, Chen Dun, Yuxin Tang, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training."  To appear in Proceedings of the VLDB Endowment, 15 (*VLDB 2022*) 
+
+- Shaoduo Gan, Xiangru Lian, Rui Wang, Jianbin Chang, Chengjun Liu, Hongmei Shi, Shengzhuo Zhang, Xianghong Li, Tengxu Sun, Jiawei Jiang, **Binhang Yuan**, Sen Yang, Ji Liu, Ce Zhang. BAGUA: Scaling up Distributed Learning with System Relaxations. To appear in Proceedings of the VLDB Endowment, 15 (*VLDB 2022*) 
 
 - Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra." in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
 
@@ -38,14 +40,6 @@ On the other hand, I am also interested in building data mining/machine learning
 - **Binhang Yuan**, Vijayaraghavan Murali, and Chris Jermaine. "Abridging source code." In Proceedings of the ACM on Programming Languages 1.OOPSLA (2017): 58. (*OOPSLA 2017*)
 
 - Bo Yan, **Binhang Yuan**, and Bo Yang. "Effective video retargeting with jittery assessment". In IEEE Transactions on Multimedia, Vol. 16, Issue 1, pp. 272-277, Jan. 2014. (*TMM 2014*)
-
-
-
-# Preprint Works
-
-- **Binhang Yuan**, Chen Dun, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training." \[*[arXiv](https://arxiv.org/abs/1910.02120)*\]
-
-- **Binhang Yuan**, Chen Wang, Chen Luo, Fei Jiang, Mingsheng Long, Philip S Yu, and Yuan Liu. "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection." \[*[arXiv](https://arxiv.org/abs/1902.05625)*\]
 
 
 # Education
