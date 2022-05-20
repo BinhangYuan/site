@@ -19,6 +19,8 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Selected Publications
 
+- Xiangru Lian, **Binhang Yuan**, Xuefeng Zhu, Yulong Wang, Yongjun He, Honghuan Wu, Lei Sun, Haodong Lyu, Chengjun Liu, Xing Dong, Yiqiao Liao, Mingnan Luo, Congfei Zhang, Jingru Xie, Haonan Li, Lei Chen, Renjie Huang, Jianying Lin, Chengchun Shu, Xuezhong Qiu, Zhishan Liu, Dongying Kong, Lei Yuan, Hai Yu, Sen Yang, Ce Zhang, and Ji Liu. "Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters" To appear in Proceedings of the 28th ACM SIGKDD international conference on Knowledge discovery and data mining. (*KDD 2022*)
+
 - Lijie Xu, Shuang Qiu, **Binhang Yuan**, Jiawei Jiang, Cedric Renggli, Shaoduo Gan, Kaan Kara, Guoliang Li, Ji Liu, Wentao Wu, Jieping Ye, and Ce Zhang. “In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle.” To appear in Proceedings of the 2022 International Conference on Management of Data. ACM. (*SIGMOD 2022*)
 
 - **Binhang Yuan**, Cameron R. Wolfe, Chen Dun, Yuxin Tang, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training."  To appear in Proceedings of the VLDB Endowment, 15. (*VLDB 2022*) 
@@ -65,7 +67,7 @@ On the other hand, I am also interested in building data mining/machine learning
 - *AAAI Reviewer*: 2020, 2021
 - *ICLR Reviewer*: 2022
 - *ICML Reviewer*: 2021, 2022
-- *NeurIPS Reviewer*: 2020, 2021
+- *NeurIPS Reviewer*: 2020, 2021, 2022
 - *MLsys AE PC member*: 2022
 - *PVLDB Reviewer*: 2022-2023
 - *IEEE Access Reviewer*: 2020
