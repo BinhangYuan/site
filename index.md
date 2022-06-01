@@ -63,16 +63,17 @@ On the other hand, I am also interested in building data mining/machine learning
 
 # Academic Service 
 
-
-- *AAAI Reviewer*: 2020, 2021
-- *ICLR Reviewer*: 2022
-- *ICML Reviewer*: 2021, 2022
-- *NeurIPS Reviewer*: 2020, 2021, 2022
-- *MLsys AE PC member*: 2022
-- *PVLDB Reviewer*: 2022-2023
-- *IEEE Access Reviewer*: 2020
-- *IEEE TKDE Reviewer*: 2022
-
+- Conference:
+  - *AAAI Reviewer*: 2020, 2021
+  - *ICLR Reviewer*: 2022
+  - *ICML Reviewer*: 2021, 2022
+  - *NeurIPS Reviewer*: 2020, 2021, 2022
+  - *MLsys AE PC member*: 2022
+- Journal: 
+  - *IEEE Access Reviewer*: 2020
+  - *IEEE TKDE Reviewer*: 2022
+  - *JMLR Reviewer*: 2023
+  - *PVLDB Reviewer*: 2023
 
 
 # Hobbies
