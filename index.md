@@ -17,9 +17,9 @@ My main research focuses are distributed machine learning algorithms and systems
 
 # Selected Publications
 
-- **Binhang Yuan&ast**, Yongjun He&ast, Tianyi Zhang, Jared Quincy Davis, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments” to appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
+- **Binhang Yuan\***, Yongjun He\*, Tianyi Zhang, Jared Quincy Davis, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments” to appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
 
-- Jue Wang&ast, **Binhang Yuan&ast**, Luka Rimanic&ast, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, and Ce Zhang. "Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees" to appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
+- Jue Wang\*, **Binhang Yuan\***, Luka Rimanic\*, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, and Ce Zhang. "Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees" to appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
 
 - Xiangru Lian, **Binhang Yuan**, Xuefeng Zhu, Yulong Wang, Yongjun He, Honghuan Wu, Lei Sun, Haodong Lyu, Chengjun Liu, Xing Dong, Yiqiao Liao, Mingnan Luo, Congfei Zhang, Jingru Xie, Haonan Li, Lei Chen, Renjie Huang, Jianying Lin, Chengchun Shu, Xuezhong Qiu, Zhishan Liu, Dongying Kong, Lei Yuan, Hai Yu, Sen Yang, Ce Zhang, and Ji Liu. “Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters” In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 3288-3298. 2022 (*SIGKDD 2022*)
 
