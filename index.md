@@ -17,7 +17,7 @@ My main research focuses are distributed machine learning algorithms and systems
 
 # Selected Publications
 
-- **Binhang Yuan\***, Yongjun He\*, Tianyi Zhang, Jared Quincy Davis, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments” to appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
+- **Binhang Yuan\***, Yongjun He\*, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments” to appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
 
 - Jue Wang\*, **Binhang Yuan\***, Luka Rimanic\*, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, and Ce Zhang. "Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees" to appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
 
