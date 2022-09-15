@@ -14,20 +14,22 @@ I accomplished my Ph.D. program in Computer Science Department Rice University. 
 
 My main research focuses are distributed machine learning algorithms and systems: in algorithm level, I study how to customize communication schema for model synchronization based on current machine learning systems, e.g., PyTorch; in system level, I study how to deploy the training procedure of large scale machine learning models on distributed database systems.
 
-On the other hand, I am also interested in building data mining/machine learning applications (especially time series) in fields such as wind turbine manufacturing, cardiovascular medicine, and geotechnics.
-
 
 # Selected Publications
 
-- Xiangru Lian, **Binhang Yuan**, Xuefeng Zhu, Yulong Wang, Yongjun He, Honghuan Wu, Lei Sun, Haodong Lyu, Chengjun Liu, Xing Dong, Yiqiao Liao, Mingnan Luo, Congfei Zhang, Jingru Xie, Haonan Li, Lei Chen, Renjie Huang, Jianying Lin, Chengchun Shu, Xuezhong Qiu, Zhishan Liu, Dongying Kong, Lei Yuan, Hai Yu, Sen Yang, Ce Zhang, and Ji Liu. "Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters" To appear in Proceedings of the 28th ACM SIGKDD international conference on Knowledge discovery and data mining. (*SIGKDD 2022*)
+- **Binhang Yuan***, Yongjun He*, Tianyi Zhang, Jared Quincy Davis, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments” to appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
 
-- Lijie Xu, Shuang Qiu, **Binhang Yuan**, Jiawei Jiang, Cedric Renggli, Shaoduo Gan, Kaan Kara, Guoliang Li, Ji Liu, Wentao Wu, Jieping Ye, and Ce Zhang. “In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle.” To appear in Proceedings of the 2022 International Conference on Management of Data. ACM. (*SIGMOD 2022*)
+- Jue Wang*, **Binhang Yuan***, Luka Rimanic*, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, and Ce Zhang. "Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees" to appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
 
-- **Binhang Yuan**, Cameron R. Wolfe, Chen Dun, Yuxin Tang, Anastasios Kyrillidis, and Chris Jermaine. "Distributed Learning of Deep Neural Networks using Independent Subnet Training."  To appear in Proceedings of the VLDB Endowment, 15. (*VLDB 2022*) 
+- Xiangru Lian, **Binhang Yuan**, Xuefeng Zhu, Yulong Wang, Yongjun He, Honghuan Wu, Lei Sun, Haodong Lyu, Chengjun Liu, Xing Dong, Yiqiao Liao, Mingnan Luo, Congfei Zhang, Jingru Xie, Haonan Li, Lei Chen, Renjie Huang, Jianying Lin, Chengchun Shu, Xuezhong Qiu, Zhishan Liu, Dongying Kong, Lei Yuan, Hai Yu, Sen Yang, Ce Zhang, and Ji Liu. “Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters” In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 3288-3298. 2022 (*SIGKDD 2022*)
 
-- Shaoduo Gan, Xiangru Lian, Rui Wang, Jianbin Chang, Chengjun Liu, Hongmei Shi, Shengzhuo Zhang, Xianghong Li, Tengxu Sun, Jiawei Jiang, **Binhang Yuan**, Sen Yang, Ji Liu, and Ce Zhang. “BAGUA: Scaling up Distributed Learning with System Relaxations.” To appear in Proceedings of the VLDB Endowment, 15. (*VLDB 2022*) 
+- Lijie Xu, Shuang Qiu, **Binhang Yuan**, Jiawei Jiang, Cedric Renggli, Shaoduo Gan, Kaan Kara, Guoliang Li, Ji Liu, Wentao Wu, Jieping Ye, and Ce Zhang. “In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle.” In Proceedings of the 2022 International Conference on Management of Data, pp. 1286-1300. 2022. (*SIGMOD 2022*)
 
-- Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. "Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra." in Proceedings of the 2021 International Conference on Management of Data. ACM. (*SIGMOD 2021*)
+- **Binhang Yuan**, Cameron R. Wolfe, Chen Dun, Yuxin Tang, Anastasios Kyrillidis, and Chris Jermaine. “Distributed Learning of Deep Neural Networks using Independent Subnet Training.” In Proceedings of the VLDB Endowment, 15(8). (*VLDB 2022*)
+
+- Shaoduo Gan, Xiangru Lian, Rui Wang, Jianbin Chang, Chengjun Liu, Hongmei Shi, Shengzhuo Zhang, Xianghong Li, Tengxu Sun, Jiawei Jiang, **Binhang Yuan**, Sen Yang, Ji Liu, and Ce Zhang. “BAGUA: Scaling up Distributed Learning with System Relaxations.” In Proceedings of the VLDB Endowment, 15(4). (*VLDB 2022*)
+
+- Shangyu Luo, Dimitrije Jankov, **Binhang Yuan**, and Chris Jermaine. “Automatic Optimization of Matrix Implementations for Distributed Machine Learning and Linear Algebra.” In Proceedings of the 2021 International Conference on Management of Data(pp. 1222-1234). ACM. (*SIGMOD 2021*)
 
 - **Binhang Yuan**, Dimitrije Jankov, Jia Zou, Yuxin Tang, Daniel Bourgeois, and Chris Jermaine. "Tensor Relational Algebra for Machine Learning System Design." In Proceedings of the VLDB Endowment, 14(8), 1338-1350 (*VLDB 2021*)
 
