@@ -12,7 +12,7 @@ I accomplished my Ph.D. program in Computer Science Department Rice University. 
 
 # Research Interests
 
-My main research focuses are distributed machine learning algorithms and systems: in algorithm level, I study how to customize communication schema for model synchronization based on current machine learning systems, e.g., PyTorch; in system level, I study how to deploy the training procedure of large scale machine learning models on distributed database systems.
+My main research focus is data management for machine learning. Concretely, I build systems to support giant foundation models over distributed and decentralized environment.
 
 
 # Selected Publications
@@ -69,7 +69,7 @@ My main research focuses are distributed machine learning algorithms and systems
 
 - Conference:
   - *AAAI Reviewer*: 2020, 2021
-  - *ICLR Reviewer*: 2022
+  - *ICLR Reviewer*: 2022, 2023
   - *ICML Reviewer*: 2021, 2022
   - *NeurIPS Reviewer*: 2020, 2021, 2022
   - *MLsys AE PC member*: 2022
