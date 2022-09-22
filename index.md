@@ -12,7 +12,7 @@ I accomplished my Ph.D. program in Computer Science Department Rice University. 
 
 # Research Interests
 
-My main research focus is data management for machine learning. Concretely, I build systems to support giant foundation models over distributed and decentralized environment.
+My main research focus is data management for machine learning. Concretely, I build systems to support giant foundation models over distributed and decentralized environment. 
 
 
 # Selected Publications
@@ -82,4 +82,4 @@ My main research focus is data management for machine learning. Concretely, I bu
 
 # Hobbies
 
-Most of my spare time (if there is any) is spent on soccer. I am a big fan of Cristiano Ronaldo and Jurgen Klopp. I support Juventus, Liverpool and Shanghai SIPG. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research, I believe.
+Most of my spare time (if there is any) is spent on soccer. I am a big fan of Cristiano Ronaldo and Jurgen Klopp. I support Liverpool and Shanghai SIPG. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research, I believe.
