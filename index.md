@@ -19,11 +19,19 @@ My main research focuses are data management for machine learning, and distribut
 
 # Selected Publications
 
-- **Binhang Yuan\***, Yongjun He\*, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments.” To appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>)
+- Ying Sheng, Lianmin Zheng, **Binhang Yuan**, Zhuohan Li, Max Ryabinin, Daniel Y. Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E. Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, and Ce Zhang. "High-throughput Generative Inference of Large Language Models with a Single GPU". To appear in International Conference on Machine Learning. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
 
-- Jue Wang\*, **Binhang Yuan\***, Luka Rimanic\*, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, and Ce Zhang. "Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees." To appear in Advances in Neural Information Processing Systems 35 (2022). (*NeurIPS 2022*)
+- Zichang Liu, Jue Wang, Tri Dao, Tianyi Zhou, **Binhang Yuan**, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen. "Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time". To appear in International Conference on Machine Learning. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
 
-- Rui Pan, Yiming Lei, Jialong Li, Zhiqiang Xie, **Binhang Yuan**, and Yiting Xia. "Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation." To appear in Proceedings of the twenty first ACM Workshop on Hot Topics in Networks (2022). (*HotNets 2022*)
+- Jue Wang, Yucheng Lu, **Binhang Yuan**, Beidi Chen, Percy Liang, Christopher De Sa, Christopher Ré, and Ce Zhang. "CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks ". To appear in International Conference on Machine Learning. (*ICML 2023*）
+
+- Yuxin Tang, Zhimin Ding, Dimitrije Jankov, **Binhang Yuan**, Daniel Bourgeois, and Chris Jermaine. "Auto-Differentiation of Relational Computations for Very Large Scale Machine Learning". To appear in International Conference on Machine Learning. (*ICML 2023*)
+
+- **Binhang Yuan\***, Yongjun He\*, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments.” In Advances in Neural Information Processing Systems 35 (2022), 25464-25477. (*NeurIPS 2022* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>)
+
+- Jue Wang\*, **Binhang Yuan\***, Luka Rimanic\*, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, and Ce Zhang. "Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees." In Advances in Neural Information Processing Systems 35 (2022), 19215-19230. (*NeurIPS 2022*)
+
+- Rui Pan, Yiming Lei, Jialong Li, Zhiqiang Xie, **Binhang Yuan**, and Yiting Xia. "Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation." In Proceedings of the twenty first ACM Workshop on Hot Topics in Networks (2022). (*HotNets 2022*)
 
 - Xiangru Lian, **Binhang Yuan**, Xuefeng Zhu, Yulong Wang, Yongjun He, Honghuan Wu, Lei Sun, Haodong Lyu, Chengjun Liu, Xing Dong, Yiqiao Liao, Mingnan Luo, Congfei Zhang, Jingru Xie, Haonan Li, Lei Chen, Renjie Huang, Jianying Lin, Chengchun Shu, Xuezhong Qiu, Zhishan Liu, Dongying Kong, Lei Yuan, Hai Yu, Sen Yang, Ce Zhang, and Ji Liu. “Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters.” In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 3288-3298. 2022 (*SIGKDD 2022*)
 
@@ -75,6 +83,7 @@ My main research focuses are data management for machine learning, and distribut
   - *ICML Reviewer*: 2021, 2022, 2023
   - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023
   - *MLsys AE PC member*: 2022
+  - *MLsys Symposium Organizer*: 2023
 - Journal: 
   - *IEEE Access Reviewer*: 2020
   - *IEEE TKDE Reviewer*: 2022
@@ -84,4 +93,4 @@ My main research focuses are data management for machine learning, and distribut
 
 # Hobbies
 
-Most of my spare time (if there is any) is spent on soccer. I am a big fan of Cristiano Ronaldo and Jurgen Klopp. I support Liverpool and Shanghai SIPG. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research, I believe.
+Most of my spare time (if there is any) is spent on soccer. I am a big fan of Liverpool. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research, I believe.
