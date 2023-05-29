@@ -6,7 +6,7 @@ layout: default
 
 # About Me  
 
-I will join CSE, HKUST as an assistant professor in August 2023. I am recruiting Ph.D. students to work on research topics, including machine learning for data management, and distributed/decentralized machine learning systems; please contact me by email with your latest resume if you are interested; there are openings for Fall 2023 (in this case, you need to contact me ASAP, and I will try my best to make you an offer in time if you are qualified) and Fall 2024 (you should contact me early as well, we can start early to fight for your [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme)).
+I will join CSE, HKUST as an assistant professor in August 2023. I am recruiting Ph.D. students to work on research topics, including machine learning for data management, and distributed/decentralized machine learning systems; please contact me by email with your latest resume if you are interested; there are openings for Spring/Fall 2024.
 
 I was a Postdoctoral Researcher in Computer Science Department, ETH Zurich under the supervision of Dr. [Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html).
 I accomplished my Ph.D. program in Computer Science Department Rice University. My adviser was [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department Rice University supervised by [Dr. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department Fudan University guided by  [Dr. Bo Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
