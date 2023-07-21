@@ -6,15 +6,15 @@ layout: default
 
 # About Me  
 
-I will join CSE, HKUST as an assistant professor in August 2023. I am recruiting Ph.D. students to work on research topics, including machine learning for data management, and distributed/decentralized machine learning systems; please contact me by email with your latest resume if you are interested; there are openings for Spring/Fall 2024.
+I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am recruiting Ph.D. students to work on research topics, including machine learning for data management, and distributed/decentralized machine learning systems; please contact me by email with your latest resume if you are interested; there are openings for Spring/Fall 2024.
 
-I was a Postdoctoral Researcher in Computer Science Department, ETH Zurich under the supervision of Dr. [Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html).
-I accomplished my Ph.D. program in Computer Science Department Rice University. My adviser was [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department Rice University supervised by [Dr. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department Fudan University guided by  [Dr. Bo Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
+I was a Postdoctoral Researcher in the Computer Science Department, ETH Zurich, under the supervision of Dr. [Ce Zhang](https://zhangce.github.io/).
+I accomplished my Ph.D. program in Computer Science Department at Rice University. My adviser was [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department at Rice University supervised by [Dr. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department at Fudan University guided by  [Dr. Bo Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
 
 
 # Research Interests
 
-My main research focuses are data management for machine learning, and distributed/decentralized machine learning systems. Concretely, I build systems to support giant foundation models over distributed and decentralized environment. 
+My main research focuses are data management for machine learning and distributed/decentralized machine learning systems. Concretely, I build systems to support giant foundation models over distributed and decentralized environments. 
 
 
 # Selected Publications
