@@ -88,7 +88,7 @@ My main research focuses are data management for machine learning and distribute
   - *IEEE Access Reviewer*: 2020
   - *IEEE TKDE Reviewer*: 2022
   - *JMLR Reviewer*: 2023
-  - *PVLDB Reviewer*: 2022-2023, 2023-2024
+  - *PVLDB Reviewer*: 2022-2023
 
 
 # Hobbies
