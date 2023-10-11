@@ -13,7 +13,16 @@ I accomplished my Ph.D. program in Computer Science Department at Rice Universit
 
 # Group Members
 
-## Ph.D. Students:
+### Ph.D. Students:
+
+- Ran Yan (2023 BS@PKU)
+- [Tianyi Bai](https://beccabai.github.io/) (2023 Intern@[PKU-DAIR Lab](https://github.com/PKU-DAIR))
+- Fangyu Ding (2024 MS,BS@SJTU)
+- [Wangcheng Tao](https://taowangcheng.github.io) (2024 BS@HUST)
+
+### Research Assistants:
+- [Youhe Jiang](https://youhe-jiang.github.io/) (PhD@Cambridge)
+
 
 
 # Research Interests
