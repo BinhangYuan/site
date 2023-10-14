@@ -92,18 +92,19 @@ My main research focuses are data management for machine learning and distribute
 
 - Conference:
   - *AAAI Reviewer*: 2020, 2021
-  - *ICLR Reviewer*: 2022, 2023
+  - *ICLR Reviewer*: 2022, 2023, 2024
   - *ICML Reviewer*: 2021, 2022, 2023
   - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023
-  - *MLsys AE PC member*: 2022
-  - *MLsys Symposium Organizer*: 2023
+  - *MLsys Reviewer: 2024, Symposium Organizer*: 2023, AE PC member*: 2022
+
 - Journal: 
   - *IEEE Access Reviewer*: 2020
   - *IEEE TKDE Reviewer*: 2022
   - *JMLR Reviewer*: 2023
+  - *IEEE BigData* 2023
   - *PVLDB Reviewer*: 2022-2023
 
 
 # Hobbies
 
-Most of my spare time (if there is any) is spent on soccer. I am a big fan of Liverpool. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research, I believe.
+Most of my spare time (if there is any) is spent on football. I am a big fan of Liverpool. As Klopp once said, "98% of football is about dealing with failure and still being able to smile and find joy in the game the next day.", which is also true for research, I believe.
