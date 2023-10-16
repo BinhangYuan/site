@@ -6,18 +6,18 @@ layout: default
 
 # About Me  
 
-I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relexed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting PhD students to work on research topics, including machine learning for data management, and distributed/decentralized machine learning systems; please contact me by email with your latest resume if you are interested; there are openings for Spring/Fall 2024.
+I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relexed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting PhD students to work on research topics, including machine learning for data management and distributed/decentralized machine learning systems; please contact me by email with your latest resume if you are interested in joining us.
 
-Before Joining HKUST I was a Postdoctoral Researcher in the Computer Science Department, at ETH Zurich, under the supervision of Dr. [Ce Zhang](https://zhangce.github.io/).
-I accomplished my Ph.D. program in Computer Science Department at Rice University. My adviser was [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department at Rice University supervised by [Dr. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department at Fudan University guided by  [Dr. Bo Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
+Before Joining HKUST I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of Dr. [Ce Zhang](https://zhangce.github.io/).
+I accomplished my Ph.D. program in Computer Science Department at Rice University. My adviser was [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department at Rice University, supervised by [Dr. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department at Fudan University guided by  [Dr. Bo Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
 
 # Current Group Members
 
-### PG Students:
+### PhD Students:
 
 - Ran Yan (PhD 2023 BS@PKU)
 - [Tianyi Bai](https://beccabai.github.io/) (PhD 2023 Intern@[PKU-DAIR Lab](https://github.com/PKU-DAIR))
-- [Fangyu Ding](https://dingfangyu.github.io) (PhD 2024 MS,BS@SJTU)
+- [Fangyu Ding](https://dingfangyu.github.io) (PhD 2024 MS,BS@SJT)
 - [Wangcheng Tao](https://taowangcheng.github.io) (PhD 2024 BS@HUST)
 
 ### Research Assistants:
