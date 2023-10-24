@@ -23,7 +23,7 @@ I accomplished my Ph.D. program in Computer Science Department at Rice Universit
 - Guangxin He (2024-Fall, BS@UCAS, MS@CAS)
 - Zipeng Qiu (2024-Fall, BS@FDU)
   
-- Yukun Zhou (Co-supervised with Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/) 2024-Fall, BS@NJU, MS@THU)
+- Yukun Zhou (Co-supervised with Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/), 2024-Fall, BS@NJU, MS@THU)
 
 
 ### Research Assistants:
