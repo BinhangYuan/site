@@ -15,15 +15,15 @@ I accomplished my Ph.D. program in Computer Science Department at Rice Universit
 
 ### PhD Students:
 
-- Ran Yan (2023-Fall BS@PKU)
-- [Tianyi Bai](https://beccabai.github.io/) (2023-Fall Intern@[PKU-DAIR Lab](https://github.com/PKU-DAIR))
-- Jiashu Wang (2024-Spring BS@PKU)
-- [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall MS,BS@SJT)
-- [Wangcheng Tao](https://taowangcheng.github.io) (2024-Fall BS@HUST)
+- Ran Yan (2023-Fall, BS@PKU)
+- [Tianyi Bai](https://beccabai.github.io/) (2023-Fall, Intern@[PKU-DAIR Lab](https://github.com/PKU-DAIR))
+- Jiashu Wang (2024-Spring, BS@PKU)
+- [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, MS,BS@SJT)
+- [Wangcheng Tao](https://taowangcheng.github.io) (2024-Fall, BS@HUST)
 - Guangxin He (2024-Fall, BS@UCAS, MS@CAS)
 - Zipeng Qiu (2024-Fall, BS@FDU)
   
-- Yukun Zhou (Coadvise with Prof [Wei Wang](https://www.cse.ust.hk/~weiwa/) 2024-Fall, BS@NJU, MS@THU)
+- Yukun Zhou (Co-supervised with Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/) 2024-Fall, BS@NJU, MS@THU)
 
 
 ### Research Assistants:
