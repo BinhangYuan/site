@@ -22,6 +22,7 @@ I accomplished my Ph.D. program in Computer Science Department at Rice Universit
 - [Wangcheng Tao](https://taowangcheng.github.io) (2024-Fall, BS@HUST)
 - Guangxin He (2024-Fall, BS@UCAS, MS@CAS)
 - Zipeng Qiu (2024-Fall, BS@FDU)
+- Ding Pan (2024-Fall, BS@SJTU, MS@PKU)
   
 - Yukun Zhou (Co-supervised with Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/), 2024-Fall, BS@NJU, MS@THU)
 
