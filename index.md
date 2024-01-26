@@ -22,6 +22,7 @@ I accomplished my Ph.D. program in Computer Science Department at Rice Universit
 ### PhD Students:
 
 - Ran Yan (2023-Fall, BS@PKU)
+- Bai Tianyi (2023-Fall, Intern@[PKU-DAIR](https://github.com/PKU-DAIR))
 - Jiashu Wang (2024-Spring, BS@PKU)
 - [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, MS,BS@SJTU)
 - [Wangcheng Tao](https://taowangcheng.github.io) (2024-Fall, BS@HUST)
