@@ -11,6 +11,12 @@ I am an assistant professor in the Department of Computer Science & Engineering 
 Before Joining HKUST I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of Dr. [Ce Zhang](https://zhangce.github.io/).
 I accomplished my Ph.D. program in Computer Science Department at Rice University. My adviser was [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department at Rice University, supervised by [Dr. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department at Fudan University guided by  [Dr. Bo Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
 
+
+# Teaching
+
+- COMP4091Y ([Spring 2024](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST))
+
+
 # Current Group Members
 
 ### PhD Students:
