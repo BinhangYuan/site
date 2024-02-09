@@ -8,8 +8,8 @@ layout: default
 
 I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting PhD students to work on research topics, including machine learning for data management and distributed/decentralized machine learning systems; please contact me by email with your latest resume if you are interested in joining us.
 
-Before Joining HKUST I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of Dr. [Ce Zhang](https://zhangce.github.io/).
-I accomplished my Ph.D. program in Computer Science Department at Rice University. My adviser was [Dr. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Dr. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department at Rice University, supervised by [Dr. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department at Fudan University guided by  [Dr. Bo Yan](http://homepage.fudan.edu.cn/boyan/in-english/) for research. 
+Before Joining HKUST I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
+I accomplished my Ph.D. program in Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department at Fudan University guided by [Prof. Bo Yan](https://faculty.fudan.edu.cn/yanbo/en/index.htm) for research. 
 
 
 # Teaching
@@ -107,7 +107,7 @@ My main research focuses are data management for machine learning and distribute
 - Conference:
   - *AAAI Reviewer*: 2020, 2021
   - *ICLR Reviewer*: 2022, 2023, 2024
-  - *ICML Reviewer*: 2021, 2022, 2023
+  - *ICML Reviewer*: 2021, 2022, 2023, 2024
   - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023
   - *MLsys Reviewer*: 2024, *Symposium Organizer*: 2023, *AE PC member*: 2022
 
@@ -117,6 +117,7 @@ My main research focuses are data management for machine learning and distribute
   - *JMLR Reviewer*: 2023
   - *IEEE BigData* 2023
   - *PVLDB Reviewer*: 2022-2023
+  - *TMLR Reviewer*: 2023-2024
 
 
 # Hobbies
