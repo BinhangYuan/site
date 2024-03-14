@@ -6,7 +6,7 @@ layout: default
 
 # About Me  
 
-I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting PhD students to work on research topics, including machine learning for data management and distributed/decentralized machine learning systems; please contact me by email with your latest resume if you are interested in joining us.
+I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting Ph.D. students to work on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am focusing on recruiting students to work at the intersection between ML systems and high-performance hardware (GPU, TPU, NPU, etc).** Please contact me by email with your latest resume if you are interested in joining us.
 
 Before Joining HKUST I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
 I accomplished my Ph.D. program in Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department at Fudan University guided by [Prof. Bo Yan](https://faculty.fudan.edu.cn/yanbo/en/index.htm) for research. 
@@ -21,19 +21,22 @@ I accomplished my Ph.D. program in Computer Science Department at Rice Universit
 
 ### PhD Students:
 
-- Ran Yan (2023-Fall, BS@PKU)
+- Ran Yan (2023-Fall, BS@Peking University)
 - Tianyi Bai (2023-Fall, Intern@[PKU-DAIR](https://github.com/PKU-DAIR))
-- Jiashu Wang (2024-Spring, BS@PKU)
-- [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, MS,BS@SJTU)
-- [Wangcheng Tao](https://taowangcheng.github.io) (2024-Fall, BS@HUST)
-- Guangxin He (2024-Fall, BS@UCAS, MS@CAS)
-- Zipeng Qiu (2024-Fall, BS@FDU)
-- Ding Pan (2024-Fall, BS@SJTU, MS@PKU)
-- Yukun Zhou (Co-supervised with Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/), 2024-Fall, BS@NJU, MS@THU)
+- Jiashu Wang (2024-Spring, BS@Peking University)
+- [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, MS,BS@Shanghai Jiao Tong University)
+- [Wangcheng Tao](https://taowangcheng.github.io) (2024-Fall, BS@Huazhong University of Science and Technology)
+- Guangxin He (2024-Fall, BS@University of Chinese Academy of Sciences, MS@Chinese Academy of Sciences)
+- Zipeng Qiu (2024-Fall, BS@Fudan University)
+- Ding Pan (2024-Fall, BS@Shanghai Jiao Tong University, MS@Peking University)
+- Yukun Zhou (2024-Fall, BS@Nanjing University, MS@Tsinghua University, Co-supervised with Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/))
 
+### MPhil Students:
+
+- Hyeonjae Kim (2024-Fall, BS@Hong Kong University of Science and Technology)
 
 ### Research Assistants:
-- [Youhe Jiang](https://youhe-jiang.github.io/) (Incoming PhD@Cambridge)
+- [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@Cambridge)
 
 
 
