@@ -8,8 +8,8 @@ layout: default
 
 I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting Ph.D. students to work on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am focusing on recruiting students to work at the intersection between ML systems and high-performance hardware (GPU, TPU, NPU, etc).** Please contact me by email with your latest resume if you are interested in joining us.
 
-Before Joining HKUST I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
-I accomplished my Ph.D. program in Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and bachelor degree from Computer Science Department at Fudan University guided by [Prof. Bo Yan](https://faculty.fudan.edu.cn/yanbo/en/index.htm) for research. 
+Before Joining HKUST, I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
+I completed my Ph.D. program in the Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis](publications/Thesis.pdf). I got my master degree from the Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and a bachelor degree from the Computer Science Department at Fudan University guided by [Prof. Bo Yan](https://faculty.fudan.edu.cn/yanbo/en/index.htm) for research. 
 
 
 # Teaching
@@ -47,7 +47,7 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- Alexandre E Eichenberger, Qi Lin, Saif Masood; Hong Min, Alex Sim, Yida Wang, Kesheng Wu, **Binhang Yuan**, Lixi Zhou, and Jia Zou. "Serving Deep Learning Model in Relational Databases". To appear in 27th International Conference on Extending Database Technology 2024. EDBT. (*EDBT 2024*)
+- Alexandre E Eichenberger, Qi Lin, Saif Masood; Hong Min, Alex Sim, Yida Wang, Kesheng Wu, **Binhang Yuan**, Lixi Zhou, and Jia Zou. "Serving Deep Learning Model in Relational Databases". In 27th International Conference on Extending Database Technology 2024. EDBT, pp. 717-724. (*EDBT 2024*)
 
 - Ying Sheng, Lianmin Zheng, **Binhang Yuan**, Zhuohan Li, Max Ryabinin, Daniel Y. Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E. Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, and Ce Zhang. "High-throughput Generative Inference of Large Language Models with a Single GPU". In International Conference on Machine Learning (pp. 31094-31116). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
 
@@ -61,7 +61,7 @@ My main research focuses are data management for machine learning and distribute
 
 - Jue Wang\*, **Binhang Yuan\***, Luka Rimanic\*, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, and Ce Zhang. "Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees." In Advances in Neural Information Processing Systems 35 (2022), 19215-19230. (*NeurIPS 2022*)
 
-- Rui Pan, Yiming Lei, Jialong Li, Zhiqiang Xie, **Binhang Yuan**, and Yiting Xia. "Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation." In Proceedings of the twenty first ACM Workshop on Hot Topics in Networks (2022). (*HotNets 2022*)
+- Rui Pan, Yiming Lei, Jialong Li, Zhiqiang Xie, **Binhang Yuan**, and Yiting Xia. "Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation." In Proceedings of the twenty-first ACM Workshop on Hot Topics in Networks (2022). (*HotNets 2022*)
 
 - Xiangru Lian, **Binhang Yuan**, Xuefeng Zhu, Yulong Wang, Yongjun He, Honghuan Wu, Lei Sun, Haodong Lyu, Chengjun Liu, Xing Dong, Yiqiao Liao, Mingnan Luo, Congfei Zhang, Jingru Xie, Haonan Li, Lei Chen, Renjie Huang, Jianying Lin, Chengchun Shu, Xuezhong Qiu, Zhishan Liu, Dongying Kong, Lei Yuan, Hai Yu, Sen Yang, Ce Zhang, and Ji Liu. “Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters.” In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp. 3288-3298. 2022 (*SIGKDD 2022*)
 
@@ -83,7 +83,7 @@ My main research focuses are data management for machine learning and distribute
 
 - Jia Zou, R Matthew Barnett, Tania Lorido-Botran, Shangyu Luo, Carlos Monroy, Sourav Sikdar, Kia Teymourian, **Binhang Yuan**, and Chris Jermaine. "PlinyCompute: A platform for high-performance, distributed, data-intensive tool development." In Proceedings of the 2018 International Conference on Management of Data(pp. 1189-1204). ACM. (*SIGMOD 2018*)
 
-- **Binhang Yuan**, Vijayaraghavan Murali, and Chris Jermaine. "Abridging source code." In Proceedings of the ACM on Programming Languages 1.OOPSLA (2017): 58. (*OOPSLA 2017*)
+- **Binhang Yuan**, Vijayaraghavan Murali, and Chris Jermaine. "Abridging source code." In Proceedings of the ACM on Programming Languages 1. OOPSLA (2017): 58. (*OOPSLA 2017*)
 
 - Bo Yan, **Binhang Yuan**, and Bo Yang. "Effective video retargeting with jittery assessment". In IEEE Transactions on Multimedia, Vol. 16, Issue 1, pp. 272-277, Jan. 2014. (*TMM 2014*)
 
@@ -111,7 +111,7 @@ My main research focuses are data management for machine learning and distribute
   - *AAAI Reviewer*: 2020, 2021
   - *ICLR Reviewer*: 2022, 2023, 2024
   - *ICML Reviewer*: 2021, 2022, 2023, 2024
-  - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023
+  - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023, *Area Chair(AC)*: 2024
   - *MLsys Reviewer*: 2024, *Symposium Organizer*: 2023, *AE PC member*: 2022
 
 - Journal: 
