@@ -111,7 +111,7 @@ My main research focuses are data management for machine learning and distribute
   - *AAAI Reviewer*: 2020, 2021
   - *ICLR Reviewer*: 2022, 2023, 2024
   - *ICML Reviewer*: 2021, 2022, 2023, 2024
-  - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023, *Area Chair(AC)*: 2024
+  - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023, *AC*: 2024
   - *MLsys Reviewer*: 2024, *Symposium Organizer*: 2023, *AE PC member*: 2022
 
 - Journal: 
