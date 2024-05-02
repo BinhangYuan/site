@@ -42,20 +42,24 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 
 # Research Interests
 
-My main research focuses are data management for machine learning and distributed/decentralized machine learning systems. Concretely, I build systems to support giant foundation models over distributed and decentralized environments. 
+My main research focuses are data management for machine learning and distributed/decentralized machine learning systems. Concretely, I build systems to support giant foundation models over distributed, heterogeneous, and decentralized environments. 
 
 
 # Selected Publications
 
-- Alexandre E Eichenberger, Qi Lin, Saif Masood; Hong Min, Alex Sim, Yida Wang, Kesheng Wu, **Binhang Yuan**, Lixi Zhou, and Jia Zou. "Serving Deep Learning Model in Relational Databases". In 27th International Conference on Extending Database Technology 2024. EDBT, pp. 717-724. (*EDBT 2024*)
+- <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, Xiaozhe Yao\*, Yang Zhou, Beidi Chen, and **Binhang Yuan** "HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment. " To appear in International Conference on Machine Learning. PMLR. (*ICML 2024*)
 
-- Ying Sheng, Lianmin Zheng, **Binhang Yuan**, Zhuohan Li, Max Ryabinin, Daniel Y. Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E. Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, and Ce Zhang. "High-throughput Generative Inference of Large Language Models with a Single GPU". In International Conference on Machine Learning (pp. 31094-31116). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
+- Lin Lu\*, Chenxi Da\*, <ins>Wangcheng Tao</ins>, **Binhang Yuan**, Yanan Sun, and Pan Zhou  "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." To appear in International Conference on Machine Learning. PMLR. (*ICML 2024*)
 
-- Zichang Liu, Jue Wang, Tri Dao, Tianyi Zhou, **Binhang Yuan**, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen. "Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time". In International Conference on Machine Learning (pp. 22137-22176). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
+- Alexandre E Eichenberger, Qi Lin, Saif Masood; Hong Min, Alex Sim, Yida Wang, Kesheng Wu, **Binhang Yuan**, Lixi Zhou, and Jia Zou. "Serving Deep Learning Model in Relational Databases." In 27th International Conference on Extending Database Technology 2024. EDBT, pp. 717-724. (*EDBT 2024*)
 
-- Jue Wang, Yucheng Lu, **Binhang Yuan**, Beidi Chen, Percy Liang, Christopher De Sa, Christopher Ré, and Ce Zhang. "CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks ". In International Conference on Machine Learning (pp. 36058-36076). PMLR. (*ICML 2023*）
+- Ying Sheng, Lianmin Zheng, **Binhang Yuan**, Zhuohan Li, Max Ryabinin, Daniel Y. Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E. Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, and Ce Zhang. "High-throughput Generative Inference of Large Language Models with a Single GPU." In International Conference on Machine Learning (pp. 31094-31116). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
 
-- Yuxin Tang, Zhimin Ding, Dimitrije Jankov, **Binhang Yuan**, Daniel Bourgeois, and Chris Jermaine. "Auto-Differentiation of Relational Computations for Very Large Scale Machine Learning". In International Conference on Machine Learning (pp. 33581-33598). PMLR. (*ICML 2023*)
+- Zichang Liu, Jue Wang, Tri Dao, Tianyi Zhou, **Binhang Yuan**, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen. "Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time." In International Conference on Machine Learning (pp. 22137-22176). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
+
+- Jue Wang, Yucheng Lu, **Binhang Yuan**, Beidi Chen, Percy Liang, Christopher De Sa, Christopher Ré, and Ce Zhang. "CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks." In International Conference on Machine Learning (pp. 36058-36076). PMLR. (*ICML 2023*）
+
+- Yuxin Tang, Zhimin Ding, Dimitrije Jankov, **Binhang Yuan**, Daniel Bourgeois, and Chris Jermaine. "Auto-Differentiation of Relational Computations for Very Large Scale Machine Learning." In International Conference on Machine Learning (pp. 33581-33598). PMLR. (*ICML 2023*)
 
 - **Binhang Yuan\***, Yongjun He\*, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments.” In Advances in Neural Information Processing Systems 35 (2022), 25464-25477. (*NeurIPS 2022* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>)
 
