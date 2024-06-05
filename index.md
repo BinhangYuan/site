@@ -9,7 +9,7 @@ layout: default
 I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting Ph.D. students to work on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am focusing on recruiting students to work at the intersection between ML systems and high-performance hardware (GPU, TPU, NPU, etc).** Please contact me by email with your latest resume if you are interested in joining us.
 
 Before Joining HKUST, I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
-I completed my Ph.D. program in the Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis]([publications/Thesis.pdf](https://github.com/BinhangYuan/site/blob/master/files/2020-PhD-Thesis.pdf)). I got my master degree from the Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and a bachelor degree from the Computer Science Department at Fudan University guided by [Prof. Bo Yan](https://faculty.fudan.edu.cn/yanbo/en/index.htm) for research. 
+I completed my Ph.D. program in the Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis]([publications/Thesis.pdf](files/2020-PhD-Thesis.pdf)). I got my master degree from the Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and a bachelor degree from the Computer Science Department at Fudan University guided by [Prof. Bo Yan](https://faculty.fudan.edu.cn/yanbo/en/index.htm) for research. 
 
 
 # Teaching
@@ -46,11 +46,11 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Talks
 
-- 2024 Huawei STW @ Shenzhen “On the Opportunities of Designing the Next Generation of Collective Communication Libraries for AI-centric Workflows” [[Slides](https://github.com/BinhangYuan/site/blob/master/files/2024-Foundation%20Models%20for%20Climate.pdf)].
+- 2024 Huawei STW @ Shenzhen “On the Opportunities of Designing the Next Generation of Collective Communication Libraries for AI-centric Workflows” [[Slides](files/2024-Foundation%20Models%20for%20Climate.pdf)].
   
-- 2024 Climate, Weather and Water Forum @ HKUST "On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models" [[Slides](https://github.com/BinhangYuan/site/blob/master/files/2024-Heterogeneous%20LLM%20Service-Huawei-STW.pdf)].
+- 2024 Climate, Weather and Water Forum @ HKUST "On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models" [[Slides](files/2024-Heterogeneous%20LLM%20Service-Huawei-STW.pdf)].
 
-- 2023 MLsys Symposium @ Miami "Accommodating LLM Training over Decentralized Computational Resources" [[Slides](https://github.com/BinhangYuan/site/blob/master/files/2023-Decentralized%20Training%20MLSys%20Symposium.pdf)].
+- 2023 MLsys Symposium @ Miami "Accommodating LLM Training over Decentralized Computational Resources" [[Slides](files/2023-Decentralized%20Training%20MLSys%20Symposium.pdf)].
 
 
 # Selected Publications
