@@ -39,10 +39,17 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@Cambridge)
 
 
-
 # Research Interests
 
 My main research focuses are data management for machine learning and distributed/decentralized machine learning systems. Concretely, I build systems to support giant foundation models over distributed, heterogeneous, and decentralized environments. 
+
+
+# Selected Talks
+
+- 2024 Huawei STW @ Shenzhen “On the Opportunities of Designing the Next Generation of Collective Communication Libraries for AI-centric Workflows” [slides]().
+  
+- 2024 Climate, Weather and Water Forum @ HKUST "On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models" [slides]().
+
 
 
 # Selected Publications
