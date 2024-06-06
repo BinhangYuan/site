@@ -46,9 +46,9 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Talks
 
-- 2024 Huawei STW @ Shenzhen “On the Opportunities of Designing the Next Generation of Collective Communication Libraries for AI-centric Workflows” [[Slides](files/2024-Foundation%20Models%20for%20Climate.pdf)].
+- 2024 Huawei STW @ Shenzhen “On the Opportunities of Designing the Next Generation of Collective Communication Libraries for AI-centric Workflows” [[Slides](files/2024-Heterogeneous%20LLM%20Service-Huawei-STW.pdf)].
   
-- 2024 Climate, Weather and Water Forum @ HKUST "On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models" [[Slides](files/2024-Heterogeneous%20LLM%20Service-Huawei-STW.pdf)].
+- 2024 Climate, Weather and Water Forum @ HKUST "On the Opportunities of (Re)-Exploring Atmospheric Science by Foundation Models"  [[Slides](files/2024-Foundation%20Models%20for%20Climate.pdf)].
 
 - 2023 MLsys Symposium @ Miami "Accommodating LLM Training over Decentralized Computational Resources" [[Slides](files/2023-Decentralized%20Training%20MLSys%20Symposium.pdf)].
 
