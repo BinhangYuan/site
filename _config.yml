@@ -6,7 +6,7 @@ favicon: images/photo.jpeg
 
 navigation:
   - name: CV
-    url: /resume.pdf
+    url: /files/resume.pdf
     
 paginate: 8
 
