@@ -28,6 +28,8 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - [Wangcheng Tao](https://taowangcheng.github.io) (2024-Fall, BS@Huazhong University of Science and Technology)
 - Guangxin He (2024-Fall, BS@University of Chinese Academy of Sciences, MS@Chinese Academy of Sciences)
 - Zipeng Qiu (2024-Fall, BS@Fudan University)
+- You Peng (2024-Fall, BS@University of Toronto)
+- Chenyue Li (2024-Fall, BS@University of Toronto)
 - Yukun Zhou (2024-Fall, BS@Nanjing University, MS@Tsinghua University, Co-supervised with Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/))
 - Ding Pan (2025-Spring, BS@Shanghai Jiao Tong University, MS@Peking University)
 
