@@ -22,7 +22,7 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 
 ### PhD Students:
 
-- Ran Yan (2023-Fall, BS@Peking University)
+- [Ran Yan](https://ranyangit.github.io/) (2023-Fall, BS@Peking University)
 - [Tianyi Bai](https://beccabai.github.io/) (2023-Fall, Intern@[PKU-DAIR](https://github.com/PKU-DAIR))
 - Jiashu Wang (2024-Spring, BS@Peking University)
 - [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, MS,BS@Shanghai Jiao Tong University)
