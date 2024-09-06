@@ -40,6 +40,11 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 ### Research Assistants:
 - [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@Cambridge)
 
+### Alumni:
+
+- [Wangcheng Tao](https://taowangcheng.github.io)
+
+
 
 # Research Interests
 
@@ -59,7 +64,7 @@ My main research focuses are data management for machine learning and distribute
 
 - <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, Xiaozhe Yao\*, Yang Zhou, Beidi Chen, and **Binhang Yuan** "HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment. " In International Conference on Machine Learning (pp. 21946-21961). PMLR. (*ICML 2024*)
 
-- Lin Lu\*, Chenxi Dai\*, Wangcheng Tao, **Binhang Yuan**, Yanan Sun, and Pan Zhou  "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning (pp. 32978-32989). PMLR. (*ICML 2024*)
+- Lin Lu\*, Chenxi Dai\*, <ins>Wangcheng Tao</ins>, **Binhang Yuan**, Yanan Sun, and Pan Zhou  "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning (pp. 32978-32989). PMLR. (*ICML 2024*)
 
 - Alexandre E Eichenberger, Qi Lin, Saif Masood; Hong Min, Alex Sim, Yida Wang, Kesheng Wu, **Binhang Yuan**, Lixi Zhou, and Jia Zou. "Serving Deep Learning Model in Relational Databases." In 27th International Conference on Extending Database Technology 2024. EDBT, pp. 717-724. (*EDBT 2024*)
 
