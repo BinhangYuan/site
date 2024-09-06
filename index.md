@@ -42,7 +42,7 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 
 ### Alumni:
 
-- [Wangcheng Tao](https://taowangcheng.github.io)
+- [Wangcheng Tao](https://taowangcheng.github.io) (RA 2023/08 - 2024/09)
 
 
 
