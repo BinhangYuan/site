@@ -26,7 +26,6 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - [Tianyi Bai](https://beccabai.github.io/) (2023-Fall, Intern@[PKU-DAIR](https://github.com/PKU-DAIR))
 - Jiashu Wang (2024-Spring, BS@Peking University)
 - [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, MS,BS@Shanghai Jiao Tong University)
-- [Wangcheng Tao](https://taowangcheng.github.io) (2024-Fall, BS@Huazhong University of Science and Technology)
 - Guangxin He (2024-Fall, BS@University of Chinese Academy of Sciences, MS@Chinese Academy of Sciences)
 - [Zipeng Qiu](https://tabibitoqzp.github.io) (2024-Fall, BS@Fudan University)
 - [You Peng](https://fredooooooo.github.io/) (2024-Fall, BS@University of Toronto)
@@ -60,7 +59,7 @@ My main research focuses are data management for machine learning and distribute
 
 - <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, Xiaozhe Yao\*, Yang Zhou, Beidi Chen, and **Binhang Yuan** "HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment. " In International Conference on Machine Learning (pp. 21946-21961). PMLR. (*ICML 2024*)
 
-- Lin Lu\*, Chenxi Dai\*, <ins>Wangcheng Tao</ins>, **Binhang Yuan**, Yanan Sun, and Pan Zhou  "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning (pp. 32978-32989). PMLR. (*ICML 2024*)
+- Lin Lu\*, Chenxi Dai\*, Wangcheng Tao, **Binhang Yuan**, Yanan Sun, and Pan Zhou  "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning (pp. 32978-32989). PMLR. (*ICML 2024*)
 
 - Alexandre E Eichenberger, Qi Lin, Saif Masood; Hong Min, Alex Sim, Yida Wang, Kesheng Wu, **Binhang Yuan**, Lixi Zhou, and Jia Zou. "Serving Deep Learning Model in Relational Databases." In 27th International Conference on Extending Database Technology 2024. EDBT, pp. 717-724. (*EDBT 2024*)
 
