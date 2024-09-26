@@ -26,7 +26,7 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - [Tianyi Bai](https://beccabai.github.io/) (2023-Fall, Intern@[PKU-DAIR](https://github.com/PKU-DAIR))
 - Jiashu Wang (2024-Spring, BS@Peking University)
 - [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, MS,BS@Shanghai Jiao Tong University)
-- Guangxin He (2024-Fall, BS@University of Chinese Academy of Sciences, MS@Chinese Academy of Sciences)
+- [Guangxin He](https://heguangxin.github.io/) (2024-Fall, BS@University of Chinese Academy of Sciences, MS@Chinese Academy of Sciences)
 - [Zipeng Qiu](https://tabibitoqzp.github.io) (2024-Fall, BS@Fudan University)
 - [You Peng](https://fredooooooo.github.io/) (2024-Fall, BS@University of Toronto)
 - [Chenyue Li](https://jimschenchen.github.io/) (2024-Fall, BS@University of Toronto)
