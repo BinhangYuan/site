@@ -62,6 +62,8 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
+- Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." to appear In Advances in Neural Information Processing Systems 37 (2024). (*NeurIPS 2024*)
+
 - <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, Xiaozhe Yao\*, Yang Zhou, Beidi Chen, and **Binhang Yuan** "HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment. " In International Conference on Machine Learning (pp. 21946-21961). PMLR. (*ICML 2024*)
 
 - Lin Lu\*, Chenxi Dai\*, <ins>Wangcheng Tao</ins>, **Binhang Yuan**, Yanan Sun, and Pan Zhou  "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning (pp. 32978-32989). PMLR. (*ICML 2024*)
