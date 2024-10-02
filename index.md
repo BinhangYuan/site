@@ -15,7 +15,7 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 # Teaching
 
 - COMP4091Y ([Spring 2024](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST))
-- COMP6211Y ([Fall 2025](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST))
+- COMP6211J ([Fall 2025](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST))
 
 
 # Current Group Members
