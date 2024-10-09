@@ -70,7 +70,7 @@ My main research focuses are data management for machine learning and distribute
 
 - Alexandre E Eichenberger, Qi Lin, Saif Masood; Hong Min, Alex Sim, Yida Wang, Kesheng Wu, **Binhang Yuan**, Lixi Zhou, and Jia Zou. "Serving Deep Learning Model in Relational Databases." In 27th International Conference on Extending Database Technology 2024. EDBT, pp. 717-724. (*EDBT 2024*)
 
-- Ying Sheng, Lianmin Zheng, **Binhang Yuan**, Zhuohan Li, Max Ryabinin, Daniel Y. Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E. Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, and Ce Zhang. "High-throughput Generative Inference of Large Language Models with a Single GPU." In International Conference on Machine Learning (pp. 31094-31116). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
+- Ying Sheng, Lianmin Zheng, **Binhang Yuan**, Zhuohan Li, Max Ryabinin, Beidi Chen, Percy Liang, Christopher Ré, Ion Stoica, and Ce Zhang. "High-throughput Generative Inference of Large Language Models with a Single GPU." In International Conference on Machine Learning (pp. 31094-31116). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
 
 - Zichang Liu, Jue Wang, Tri Dao, Tianyi Zhou, **Binhang Yuan**, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen. "Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time." In International Conference on Machine Learning (pp. 22137-22176). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
 
