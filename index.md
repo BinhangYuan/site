@@ -32,6 +32,7 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - [Chenyue Li](https://jimschenchen.github.io/) (2024-Fall, BS@University of Toronto)
 - [Yukun Zhou](https://marcoszyk.github.io/) (2024-Fall, BS@Nanjing University, MS@Tsinghua University, Co-supervised with Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/))
 - Ding Pan (2025-Spring, BS@Shanghai Jiao Tong University, MS@Peking University)
+- Xu Xu (2025-Fall, BS@Harbin Institute of Technology, MS@Peking University)
 
 ### MPhil Students:
 
