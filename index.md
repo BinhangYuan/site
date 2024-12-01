@@ -23,7 +23,7 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 ### PhD Students:
 
 - [Ran Yan](https://ranyangit.github.io/) (2023-Fall, BS@Peking University)
-- [Tianyi Bai](https://beccabai.github.io/) (2023-Fall, Intern@[PKU-DAIR](https://github.com/PKU-DAIR))
+- [Tianyi Bai](https://beccabai.github.io/) (2023-Fall, BS@Beijing Institute of Technology)
 - Jiashu Wang (2024-Spring, BS@Peking University)
 - [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, MS,BS@Shanghai Jiao Tong University)
 - [Guangxin He](https://heguangxin.github.io/) (2024-Fall, BS@University of Chinese Academy of Sciences, MS@Chinese Academy of Sciences)
@@ -65,11 +65,13 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." To Appear In Advances in Neural Information Processing Systems 37 (2024). (*NeurIPS 2024*)
+- Changyue Liao, Mo Sun, Zihan Yang, Jun Xie, Kaiqi Chen, **Binhang Yuan**, Fei Wu, Zeke Wang. "Ratel: Optimizing Holistic Data Movement to Fine-tune 100B Model on a Consumer GPU." To Appear in the 41st IEEE International Conference on Data Engineering 2025 (*ICDE 2025*)
 
-- <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, Xiaozhe Yao\*, Yang Zhou, Beidi Chen, and **Binhang Yuan** "HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment. " In International Conference on Machine Learning (pp. 21946-21961). PMLR. (*ICML 2024*)
+- Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen. "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." To Appear in Advances in Neural Information Processing Systems 37 (2024). (*NeurIPS 2024*)
 
-- Lin Lu\*, Chenxi Dai\*, <ins>Wangcheng Tao</ins>, **Binhang Yuan**, Yanan Sun, and Pan Zhou  "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning (pp. 32978-32989). PMLR. (*ICML 2024*)
+- <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, Xiaozhe Yao\*, Yang Zhou, Beidi Chen, and **Binhang Yuan**. "HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment. " In International Conference on Machine Learning (pp. 21946-21961). PMLR. (*ICML 2024*)
+
+- Lin Lu\*, Chenxi Dai\*, <ins>Wangcheng Tao</ins>, **Binhang Yuan**, Yanan Sun, and Pan Zhou. "Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training." In International Conference on Machine Learning (pp. 32978-32989). PMLR. (*ICML 2024*)
 
 - Alexandre E Eichenberger, Qi Lin, Saif Masood; Hong Min, Alex Sim, Yida Wang, Kesheng Wu, **Binhang Yuan**, Lixi Zhou, and Jia Zou. "Serving Deep Learning Model in Relational Databases." In 27th International Conference on Extending Database Technology 2024. EDBT, pp. 717-724. (*EDBT 2024*)
 
