@@ -65,6 +65,10 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
+- Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, **Binhang Yuan**, Zeke Wang, Tao Lin. "DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025*)
+
+- <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, and **Binhang Yuan**. "HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025*)
+
 - Changyue Liao, Mo Sun, Zihan Yang, Jun Xie, Kaiqi Chen, **Binhang Yuan**, Fei Wu, Zeke Wang. "Ratel: Optimizing Holistic Data Movement to Fine-tune 100B Model on a Consumer GPU." To Appear in the 41st IEEE International Conference on Data Engineering 2025 (*ICDE 2025*)
 
 - Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen. "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." To Appear in Advances in Neural Information Processing Systems 37 (2024). (*NeurIPS 2024*)
