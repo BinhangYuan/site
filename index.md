@@ -14,8 +14,8 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 
 # Teaching
 
-- COMP4091Y ([Spring 2024](https://github.com/Relaxed-System-Lab/COMP4901Y_Course_HKUST))
-- COMP6211J ([Fall 2025](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST))
+- COMP4091Y ([Spring 2024](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2024spring), [Spring 2025](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring))
+- COMP6211J ([Fall 2024](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST))
 
 
 # Current Group Members
@@ -39,12 +39,8 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - Hyeonjae Kim (2024-Fall, BS@Hong Kong University of Science and Technology)
 
 ### Research Assistants:
-- [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@Cambridge)
-
-### Alumni:
-
-- [Wangcheng Tao](https://taowangcheng.github.io) (RA 2023/08 - 2024/09)
-
+- [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@University of Cambridge)
+- [Guanduo Chen](https://woooooow-pro.github.io/) (MS@Fudan University)
 
 
 # Research Interests
