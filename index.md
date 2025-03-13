@@ -6,15 +6,15 @@ layout: default
 
 # About Me  
 
-I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting Ph.D. students to work on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am focusing on recruiting students to work at the intersection between ML systems and high-performance hardware (GPU, TPU, NPU, etc).** Please contact me by email with your latest resume if you are interested in joining us.
+I am an assistant professor in the Department of Computer Science & Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting Ph.D. students to work on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am focusing on recruiting students to work at the intersection between ML systems and high-performance hardware (GPU, TPU, NPU, etc) to support LLM services.** Please contact me by email with your latest resume if you are interested in joining us.
 
-Before Joining HKUST, I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
+Before joining HKUST, I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
 I completed my Ph.D. program in the Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis]([publications/Thesis.pdf](files/2020-PhD-Thesis.pdf)). I got my master degree from the Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and a bachelor degree from the Computer Science Department at Fudan University guided by [Prof. Bo Yan](https://faculty.fudan.edu.cn/yanbo/en/index.htm) for research. 
 
 
 # Teaching
 
-- COMP4091Y ([Spring 2024](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2024spring), [Spring 2025](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring))
+- COMP4091Y (Spring 2024, [Spring 2025](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring))
 - COMP6211J ([Fall 2024](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST))
 
 
@@ -61,7 +61,9 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, **Binhang Yuan**, Zeke Wang, Tao Lin. "DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025*)
+- Wenjie Qu\*, Yuguang Zhou\*, Yongji Wu, Tingsong Xiao, **Binhang Yuan**, Yiming Li, Jiaheng Zhang. "Prompt Inversion Attack against Collaborative Inference of Large Language Models" To Appear in IEEE Symposium on Security and Privacy 2025 (*S&P 2025*)
+
+- Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, **Binhang Yuan**, Zeke Wang, Tao Lin. "DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025* <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
 
 - <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, and **Binhang Yuan**. "HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025*)
 
