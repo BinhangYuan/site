@@ -61,15 +61,17 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- Wenjie Qu\*, Yuguang Zhou\*, Yongji Wu, Tingsong Xiao, **Binhang Yuan**, Yiming Li, Jiaheng Zhang. "Prompt Inversion Attack against Collaborative Inference of Large Language Models" To Appear in IEEE Symposium on Security and Privacy 2025 (*S&P 2025*)
+- Wenjie Qu\*, Yuguang Zhou\*, Yongji Wu, Tingsong Xiao, **Binhang Yuan**, Yiming Li, and Jiaheng Zhang. "Prompt Inversion Attack against Collaborative Inference of Large Language Models" To Appear in IEEE Symposium on Security and Privacy 2025 (*S&P 2025*)
 
-- Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, **Binhang Yuan**, Zeke Wang, Tao Lin. "DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025* <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
+- Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, **Binhang Yuan**, Zeke Wang, and Tao Lin. "DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025* <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
 
 - <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, and **Binhang Yuan**. "HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025*)
 
-- Changyue Liao, Mo Sun, Zihan Yang, Jun Xie, Kaiqi Chen, **Binhang Yuan**, Fei Wu, Zeke Wang. "Ratel: Optimizing Holistic Data Movement to Fine-tune 100B Model on a Consumer GPU." To Appear in the 41st IEEE International Conference on Data Engineering 2025 (*ICDE 2025*)
+- Yongjun He, Roger Waleffe, Zhichao Han, Johnu George, **Binhang Yuan**, Zitao Zhang, Yinan Shan, Yang Zhao, Debojyoti Dutta, Theodoros Rekatsinas, and Ce Zhang. "MLKV: Efficiently Scaling up Large Embedding Model Training with Disk-based Key-Value Storage." To Appear in the 41st IEEE International Conference on Data Engineering 2025 (*ICDE 2025*)
 
-- Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen. "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." In Advances in Neural Information Processing Systems 37 (2024), 13349-13371. (*NeurIPS 2024*)
+- Changyue Liao, Mo Sun, Zihan Yang, Jun Xie, Kaiqi Chen, **Binhang Yuan**, Fei Wu, and Zeke Wang. "Ratel: Optimizing Holistic Data Movement to Fine-tune 100B Model on a Consumer GPU." To Appear in the 41st IEEE International Conference on Data Engineering 2025 (*ICDE 2025*)
+
+- Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, and Tianlong Chen. "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." In Advances in Neural Information Processing Systems 37 (2024), 13349-13371. (*NeurIPS 2024*)
 
 - <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, Xiaozhe Yao\*, Yang Zhou, Beidi Chen, and **Binhang Yuan**. "HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment. " In International Conference on Machine Learning (pp. 21946-21961). PMLR. (*ICML 2024*)
 
