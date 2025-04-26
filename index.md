@@ -61,7 +61,7 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, **Binhang Yuan**, and Wei Wang  “Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM  Inference” To Appear in the 2025 USENIX Annual Technical Conference (ATC 2025). 
+- Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, **Binhang Yuan**, and Wei Wang  “Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM  Inference” To Appear in the 2025 USENIX Annual Technical Conference (*ATC 2025*). 
 
 - Wenjie Qu\*, Yuguang Zhou\*, Yongji Wu, Tingsong Xiao, **Binhang Yuan**, Yiming Li, and Jiaheng Zhang. "Prompt Inversion Attack against Collaborative Inference of Large Language Models" To Appear in IEEE Symposium on Security and Privacy 2025 (*S&P 2025*)
 
