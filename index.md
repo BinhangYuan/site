@@ -61,13 +61,15 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, **Binhang Yuan**, and Wei Wang  “Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM  Inference” To Appear in the 2025 USENIX Annual Technical Conference (*ATC 2025*). 
+- <ins>Youhe Jiang</ins>, Fangcheng Fu, Xiaozhe Yao, Guoliang HE, Xupeng Miao, Ana Klimovic, Bin CUI, **Binhang Yuan**, and Eiko Yoneki. "Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs." To Appear in International Conference on Machine Learning. (*ICML 2025*)
 
-- Wenjie Qu\*, Yuguang Zhou\*, Yongji Wu, Tingsong Xiao, **Binhang Yuan**, Yiming Li, and Jiaheng Zhang. "Prompt Inversion Attack against Collaborative Inference of Large Language Models" To Appear in IEEE Symposium on Security and Privacy 2025 (*S&P 2025*)
+- Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, **Binhang Yuan**, and Wei Wang. “Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM  Inference.” To Appear in the 2025 USENIX Annual Technical Conference (*ATC 2025*). 
 
-- Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, **Binhang Yuan**, Zeke Wang, and Tao Lin. "DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025* <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
+- Wenjie Qu\*, Yuguang Zhou\*, Yongji Wu, Tingsong Xiao, **Binhang Yuan**, Yiming Li, and Jiaheng Zhang. "Prompt Inversion Attack against Collaborative Inference of Large Language Models." To Appear in IEEE Symposium on Security and Privacy 2025 (*S&P 2025*)
 
-- <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, and **Binhang Yuan**. "HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment" To Appear in the 13th International Conference on Learning Representations 2025 (*ICLR 2025*)
+- Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, **Binhang Yuan**, Zeke Wang, and Tao Lin. "DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference." In the 13th International Conference on Learning Representations 2025 (*ICLR 2025* <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
+
+- <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, and **Binhang Yuan**. "HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment." In the 13th International Conference on Learning Representations 2025 (*ICLR 2025*)
 
 - Yongjun He, Roger Waleffe, Zhichao Han, Johnu George, **Binhang Yuan**, Zitao Zhang, Yinan Shan, Yang Zhao, Debojyoti Dutta, Theodoros Rekatsinas, and Ce Zhang. "MLKV: Efficiently Scaling up Large Embedding Model Training with Disk-based Key-Value Storage." To Appear in the 41st IEEE International Conference on Data Engineering 2025 (*ICDE 2025*)
 
