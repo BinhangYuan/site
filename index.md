@@ -61,6 +61,8 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
+- <ins>Tianyi Bai</ins>, Ling Yang, ZhenHao Wong, Fupeng Sun, Xinlin Zhuang, Jiahui Peng, Chi Zhang, Lijun Wu, Jiantao Qiu, Wentao Zhang, **Binhang Yuan**, and Conghui He "Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration." To Appear in Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (*ACL 2025*).
+
 - <ins>Youhe Jiang</ins>, Fangcheng Fu, Xiaozhe Yao, Guoliang HE, Xupeng Miao, Ana Klimovic, Bin Cui, **Binhang Yuan**, and Eiko Yoneki. "Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs." To Appear in International Conference on Machine Learning. (*ICML 2025*)
 
 - Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, **Binhang Yuan**, and Wei Wang. “Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM  Inference.” To Appear in the 2025 USENIX Annual Technical Conference (*ATC 2025*). 
