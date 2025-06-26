@@ -74,7 +74,7 @@ My main research focuses are data management for machine learning and distribute
 - <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, and **Binhang Yuan**. "HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment." In the 13th International Conference on Learning Representations 2025. (*ICLR 2025*)
 
 - Changyue Liao, Mo Sun, Zihan Yang, Jun Xie, Kaiqi Chen, **Binhang Yuan**, Fei Wu, and Zeke Wang. "Ratel: Optimizing Holistic Data Movement to Fine-tune 100B Model on a Consumer GPU." In the 41st IEEE International Conference on Data Engineering, pp. 292-306, 2025. (*ICDE 2025*)
-- 
+
 - Yongjun He, Roger Waleffe, Zhichao Han, Johnu George, **Binhang Yuan**, Zitao Zhang, Yinan Shan, Yang Zhao, Debojyoti Dutta, Theodoros Rekatsinas, and Ce Zhang. "MLKV: Efficiently Scaling up Large Embedding Model Training with Disk-based Key-Value Storage." In the 41st IEEE International Conference on Data Engineering, pp. 4134-4141. 2025 (*ICDE 2025*)
 
 - Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, and Tianlong Chen. "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." In Advances in Neural Information Processing Systems 37 (2024), 13349-13371. (*NeurIPS 2024*)
