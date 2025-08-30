@@ -24,7 +24,6 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 
 - [Ran Yan](https://ranyangit.github.io/) (2023-Fall, BS@Peking University)
 - [Tianyi Bai](https://beccabai.github.io/) (2023-Fall, BS@Beijing Institute of Technology)
-- Jiashu Wang (2024-Spring, BS@Peking University)
 - [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, BS,MS@Shanghai Jiao Tong University)
 - [Guangxin He](https://heguangxin.github.io/) (2024-Fall, BS@University of Chinese Academy of Sciences, MS@Chinese Academy of Sciences)
 - [Zipeng Qiu](https://tabibitoqzp.github.io) (2024-Fall, BS@Fudan University)
@@ -34,10 +33,13 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - Ding Pan (2025-Spring, BS@Shanghai Jiao Tong University, MS@Peking University)
 - Xu Xu (2025-Fall, BS@Harbin Institute of Technology, MS@Peking University)
 - Jiayi Cheng (2025-Fall, BS,MS@Cornell University)
+- Ao Shen (2025-Fall, BS@Purdue University, Co-supervised with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/))
+- Daifeng Li (2026-Fall, BS@University of Science and Technology of China)
 
 ### MPhil Students:
 
 - Hyeonjae Kim (2024-Fall, BS@Hong Kong University of Science and Technology)
+- Jiashu Wang (2024-Spring, BS@Peking University)
 
 ### Research Assistants:
 - [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@University of Cambridge)
