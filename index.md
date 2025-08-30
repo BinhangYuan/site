@@ -64,11 +64,11 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- <ins>Youhe Jiang</ins>, Fangcheng Fu, Xiaozhe Yao, Guoliang HE, Xupeng Miao, Ana Klimovic, Bin Cui, **Binhang Yuan**, and Eiko Yoneki. "Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs." To Appear in International Conference on Machine Learning. (*ICML 2025*)
+- <ins>Youhe Jiang</ins>, Fangcheng Fu, Xiaozhe Yao, Guoliang HE, Xupeng Miao, Ana Klimovic, Bin Cui, **Binhang Yuan**, and Eiko Yoneki. "Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs." To Appear in the International Conference on Machine Learning. (*ICML 2025*)
 
 - <ins>Tianyi Bai</ins>, Ling Yang, ZhenHao Wong, Fupeng Sun, Xinlin Zhuang, Jiahui Peng, Chi Zhang, Lijun Wu, Jiantao Qiu, Wentao Zhang, **Binhang Yuan**, and Conghui He "Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration." In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, pp. 9465-9491. (*ACL 2025*).
 
-- Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, **Binhang Yuan**, and Wei Wang. “Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM  Inference.” To Appear in the 2025 USENIX Annual Technical Conference. (*ATC 2025*). 
+- Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, **Binhang Yuan**, and Wei Wang. “Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM  Inference.” In the 2025 USENIX Annual Technical Conference, pp. 613-629. (*ATC 2025*). 
 
 - Wenjie Qu\*, Yuguang Zhou\*, Yongji Wu, Tingsong Xiao, **Binhang Yuan**, Yiming Li, and Jiaheng Zhang. "Prompt Inversion Attack against Collaborative Inference of Large Language Models." In IEEE Symposium on Security and Privacy, pp. 1695-1712, 2025 (*S&P 2025*).
 
