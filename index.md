@@ -33,7 +33,8 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - Ding Pan (2025-Spring, BS@Shanghai Jiao Tong University, MS@Peking University)
 - Xu Xu (2025-Fall, BS@Harbin Institute of Technology, MS@Peking University)
 - Jiayi Cheng (2025-Fall, BS,MS@Cornell University)
-- Ao Shen (2025-Fall, BS@Purdue University, Co-supervised with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/))
+- [Ao Shen](https://aoshen524.github.io/) (2025-Fall, BS@Purdue University, Co-supervised with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/))
+- [Xiaochen Ma](https://ma.xiaochen.world/) (2026-Spring, BS@Sichuan University)
 - Daifeng Li (2026-Fall, BS@University of Science and Technology of China)
 
 ### MPhil Students:
