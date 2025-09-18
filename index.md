@@ -73,7 +73,7 @@ My main research focuses are data management for machine learning and distribute
 
 - <ins>Tianyi Bai</ins>, Yuxuan Fan, Qiu Jiantao, Fupeng Sun, Jiayi Song, Junlin Han, Zichen Liu, Conghui He, Wentao Zhang, and **Binhang Yuan**. "Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning." To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
 
-- Guoliang HE, <ins>Youhe Jiang</ins>, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun Wang, Du Zixian, Zhuo Jiang, Xinlei Zhang, **Binhang Yuan**, and Eiko Yoneki. "Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs." To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
+- Guoliang He, <ins>Youhe Jiang</ins>, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun Wang, Du Zixian, Zhuo Jiang, Xinlei Zhang, **Binhang Yuan**, and Eiko Yoneki. "Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs." To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
 
 - Rizhen Hu, Yutong He, <ins>Ran Yan</ins>, Mou Sun, **Binhang Yuan**, and Kun Yuan. "MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization." To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
 
