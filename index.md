@@ -65,17 +65,17 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- Wei Fu, Jiaxuan Gao, Xujie Shen, Chen Zhu, Zhiyu Mei, Chuyi He, Shusheng Xu, Guo Wei, Jun Mei, <ins>Jiashu Wang</ins>, Tongkai Yang, **Binhang Yuan**, and Yi Wu. “AReaL: Asynchronous Reinforcement Learning for Efficient and Scalable Language Reasoning." To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
+- Wei Fu, Jiaxuan Gao, Xujie Shen, Chen Zhu, Zhiyu Mei, Chuyi He, Shusheng Xu, Guo Wei, Jun Mei, <ins>Jiashu Wang</ins>, Tongkai Yang, **Binhang Yuan**, and Yi Wu. “AReaL: Asynchronous Reinforcement Learning for Efficient and Scalable Language Reasoning." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
-- <ins>Chenyue Li</ins>, Wen Deng, Mengqian Lu, and **Binhang Yuan**. “AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science” To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
+- <ins>Chenyue Li</ins>, Wen Deng, Mengqian Lu, and **Binhang Yuan**. “AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science” To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
-- <ins>Tianyi Bai</ins>, Zengjie Hu, Fupeng Sun, Qiu Jiantao, Yizhen Jiang, <ins>Guangxin He</ins>, Bohan Zeng, Conghui He, **Binhang Yuan**, and Wentao Zhang. "Multi-step Visual Reasoning with Visual Tokens Scaling and Verification." To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
+- <ins>Tianyi Bai</ins>, Zengjie Hu, Fupeng Sun, Qiu Jiantao, Yizhen Jiang, <ins>Guangxin He</ins>, Bohan Zeng, Conghui He, **Binhang Yuan**, and Wentao Zhang. "Multi-step Visual Reasoning with Visual Tokens Scaling and Verification." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
-- <ins>Tianyi Bai</ins>, Yuxuan Fan, Qiu Jiantao, Fupeng Sun, Jiayi Song, Junlin Han, Zichen Liu, Conghui He, Wentao Zhang, and **Binhang Yuan**. "Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning." To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
+- <ins>Tianyi Bai</ins>, Yuxuan Fan, Qiu Jiantao, Fupeng Sun, Jiayi Song, Junlin Han, Zichen Liu, Conghui He, Wentao Zhang, and **Binhang Yuan**. "Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
-- Guoliang He, <ins>Youhe Jiang</ins>, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun Wang, Du Zixian, Zhuo Jiang, Xinlei Zhang, **Binhang Yuan**, and Eiko Yoneki. "Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs." To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
+- Guoliang He, <ins>Youhe Jiang</ins>, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun Wang, Du Zixian, Zhuo Jiang, Xinlei Zhang, **Binhang Yuan**, and Eiko Yoneki. "Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
-- Rizhen Hu, Yutong He, <ins>Ran Yan</ins>, Mou Sun, **Binhang Yuan**, and Kun Yuan. "MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization." To Appear in Advances in Neural Information Processing Systems 38 (2025). (*NeurIPS 2025*)
+- Rizhen Hu, Yutong He, <ins>Ran Yan</ins>, Mou Sun, **Binhang Yuan**, and Kun Yuan. "MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
 - <ins>Youhe Jiang</ins>, Fangcheng Fu, Xiaozhe Yao, Guoliang HE, Xupeng Miao, Ana Klimovic, Bin Cui, **Binhang Yuan**, and Eiko Yoneki. "Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs." In the International Conference on Machine Learning. (*ICML 2025*)
 
@@ -93,7 +93,7 @@ My main research focuses are data management for machine learning and distribute
 
 - Yongjun He, Roger Waleffe, Zhichao Han, Johnu George, **Binhang Yuan**, Zitao Zhang, Yinan Shan, Yang Zhao, Debojyoti Dutta, Theodoros Rekatsinas, and Ce Zhang. "MLKV: Efficiently Scaling up Large Embedding Model Training with Disk-based Key-Value Storage." In the 41st IEEE International Conference on Data Engineering, pp. 4134-4141. 2025 (*ICDE 2025*)
 
-- Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, and Tianlong Chen. "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." In Advances in Neural Information Processing Systems 37 (2024), 13349-13371. (*NeurIPS 2024*)
+- Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, and Tianlong Chen. "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." In Advances in Neural Information Processing Systems 38 (2024), 13349-13371. (*NeurIPS 2024*)
 
 - <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, Xiaozhe Yao\*, Yang Zhou, Beidi Chen, and **Binhang Yuan**. "HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment. " In International Conference on Machine Learning (pp. 21946-21961). PMLR. (*ICML 2024*)
 
@@ -109,9 +109,9 @@ My main research focuses are data management for machine learning and distribute
 
 - Yuxin Tang, Zhimin Ding, Dimitrije Jankov, **Binhang Yuan**, Daniel Bourgeois, and Chris Jermaine. "Auto-Differentiation of Relational Computations for Very Large Scale Machine Learning." In International Conference on Machine Learning (pp. 33581-33598). PMLR. (*ICML 2023*)
 
-- **Binhang Yuan\***, Yongjun He\*, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments.” In Advances in Neural Information Processing Systems 35 (2022), 25464-25477. (*NeurIPS 2022* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>)
+- **Binhang Yuan\***, Yongjun He\*, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments.” In Advances in Neural Information Processing Systems 36 (2022), 25464-25477. (*NeurIPS 2022* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>)
 
-- Jue Wang\*, **Binhang Yuan\***, Luka Rimanic\*, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, and Ce Zhang. "Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees." In Advances in Neural Information Processing Systems 35 (2022), 19215-19230. (*NeurIPS 2022*)
+- Jue Wang\*, **Binhang Yuan\***, Luka Rimanic\*, Yongjun He, Tri Dao, Beidi Chen, Christopher Re, and Ce Zhang. "Fine-tuning Language Models over Slow Networks using Activation Compression with Guarantees." In Advances in Neural Information Processing Systems 36 (2022), 19215-19230. (*NeurIPS 2022*)
 
 - Rui Pan, Yiming Lei, Jialong Li, Zhiqiang Xie, **Binhang Yuan**, and Yiting Xia. "Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation." In Proceedings of the twenty-first ACM Workshop on Hot Topics in Networks (2022). (*HotNets 2022*)
 
