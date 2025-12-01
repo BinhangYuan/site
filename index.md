@@ -35,6 +35,7 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - Jiayi Cheng (2025-Fall, BS,MS@Cornell University)
 - [Xiaochen Ma](https://ma.xiaochen.world/) (2026-Spring, BS@Sichuan University)
 - Daifeng Li (2026-Fall, BS@University of Science and Technology of China)
+- Wenshuang Li (2026-Fall, BS@Tsinghua University)
 
 ### MPhil Students:
 
