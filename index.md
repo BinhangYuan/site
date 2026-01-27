@@ -65,17 +65,33 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- Wei Fu, Jiaxuan Gao, Xujie Shen, Chen Zhu, Zhiyu Mei, Chuyi He, Shusheng Xu, Guo Wei, Jun Mei, <ins>Jiashu Wang</ins>, Tongkai Yang, **Binhang Yuan**, and Yi Wu. “AReaL: Asynchronous Reinforcement Learning for Efficient and Scalable Language Reasoning." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang </ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui and **Binhang Yuan** "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." To Appear in 9th Annual Conference on Machine Learning and Systems (*MLSys26*)
 
-- <ins>Chenyue Li</ins>, Wen Deng, Mengqian Lu, and **Binhang Yuan**. “AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science” To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+- <ins>Guangxin He</ins>, Shen Nie, Fengqi Zhu, Yuankang Zhao, <ins>Tianyi Bai</ins>, <ins>Ran Yan</ins>, Jie Fu, Chongxuan Li, and **Binhang Yuan** "UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- <ins>Tianyi Bai</ins>, Zengjie Hu, Fupeng Sun, Qiu Jiantao, Yizhen Jiang, <ins>Guangxin He</ins>, Bohan Zeng, Conghui He, **Binhang Yuan**, and Wentao Zhang. "Multi-step Visual Reasoning with Visual Tokens Scaling and Verification." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+- Di Chai, Pengbo Li, Feiyuan Zhang, Yilun Jin, Han Tian, Kaiqiang Xu, **Binhang Yuan**, Dian Shen, Junxue Zhang, and Kai Chen "Unlocking Full Efficiency of Token Filtering in Large Language Model Training." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- <ins>Tianyi Bai</ins>, Yuxuan Fan, Qiu Jiantao, Fupeng Sun, Jiayi Song, Junlin Han, Zichen Liu, Conghui He, Wentao Zhang, and **Binhang Yuan**. "Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Zhuoming Chen, Haohui Mai, Beidi Chen, and **Binhang Yuan**."FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- Guoliang He, <ins>Youhe Jiang</ins>, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun Wang, Du Zixian, Zhuo Jiang, Xinlei Zhang, **Binhang Yuan**, and Eiko Yoneki. "Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+- <ins>Youhe Jiang</ins>\*, Fangcheng Fu\*, Wanru Zhao\*, Stephan Rabanser, Jintao Zhang, Nicholas D. Lane, and **Binhang Yuan** "Cascadia: An Efficient Cascade Serving System for Large Language Models" To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- Rizhen Hu, Yutong He, <ins>Ran Yan</ins>, Mou Sun, **Binhang Yuan**, and Kun Yuan. "MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization." To Appear in Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+- Lingfei Zeng, Fengdi Che, Xuhan Huang, Fei Ye, <ins>Xu Xu</ins>, **Binhang Yuan**, and Jie Fu "VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally" To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+
+- <ins>Fangyu Ding</ins>, Ding Ding, Sijin Chen, Kaibo Wang, Peng Xu, Zijin Feng, Haoli Bai, Kai Han, Youliang Yan, **Binhang Yuan**, and Jiacheng Sun "Beyond Masks: Efficient, Flexible Diffusion Language Models via Deletion-Insertion Processes" To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+
+- <ins>Xu Xu</ins>\*, Xin Li\*, Xingwei Qu, Jie Fu, and **Binhang Yuan** "Local Success Does Not Compose: Benchmarking Large Language Models for Compositional Formal Verification" To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+
+- Wei Fu, Jiaxuan Gao, Xujie Shen, Chen Zhu, Zhiyu Mei, Chuyi He, Shusheng Xu, Guo Wei, Jun Mei, <ins>Jiashu Wang</ins>, Tongkai Yang, **Binhang Yuan**, and Yi Wu. “AReaL: Asynchronous Reinforcement Learning for Efficient and Scalable Language Reasoning." In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+
+- <ins>Chenyue Li</ins>, Wen Deng, Mengqian Lu, and **Binhang Yuan**. “AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science” In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+
+- <ins>Tianyi Bai</ins>, Zengjie Hu, Fupeng Sun, Qiu Jiantao, Yizhen Jiang, <ins>Guangxin He</ins>, Bohan Zeng, Conghui He, **Binhang Yuan**, and Wentao Zhang. "Multi-step Visual Reasoning with Visual Tokens Scaling and Verification." In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+
+- <ins>Tianyi Bai</ins>, Yuxuan Fan, Qiu Jiantao, Fupeng Sun, Jiayi Song, Junlin Han, Zichen Liu, Conghui He, Wentao Zhang, and **Binhang Yuan**. "Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning." In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+
+- Guoliang He, <ins>Youhe Jiang</ins>, Wencong Xiao, Jiang Kaihua, Shuguang Wang, Jun Wang, Du Zixian, Zhuo Jiang, Xinlei Zhang, **Binhang Yuan**, and Eiko Yoneki. "Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs." In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+
+- Rizhen Hu, Yutong He, <ins>Ran Yan</ins>, Mou Sun, **Binhang Yuan**, and Kun Yuan. "MeCeFO: Enhancing LLM Training Robustness via Fault-Tolerant Optimization." In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
 - <ins>Youhe Jiang</ins>, Fangcheng Fu, Xiaozhe Yao, Guoliang HE, Xupeng Miao, Ana Klimovic, Bin Cui, **Binhang Yuan**, and Eiko Yoneki. "Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs." In the International Conference on Machine Learning. (*ICML 2025*)
 
