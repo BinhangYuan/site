@@ -54,7 +54,7 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Talks
 
-- 2024 AI Tide Tianchi AI Developer Workshop @ HKUST "2024 - Accommodating LLM Service over Heterogenous Computational Resources" [[Slides](files/2024-Heterogeneous%20LLM%20Service-Alibaba-HKUST.pdf)].
+- 2024 AI Tide Tianchi AI Developer Workshop @ HKUST "2024 - Accommodating LLM Service over Heterogeneous Computational Resources" [[Slides](files/2024-Heterogeneous%20LLM%20Service-Alibaba-HKUST.pdf)].
 
 - 2024 Huawei STW @ Shenzhen “On the Opportunities of Designing the Next Generation of Collective Communication Libraries for AI-centric Workflows” [[Slides](files/2024-Heterogeneous%20LLM%20Service-Huawei-STW.pdf)].
   
@@ -65,7 +65,7 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang </ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui and **Binhang Yuan** "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." To Appear in 9th Annual Conference on Machine Learning and Systems (*MLSys26*)
+- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang </ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan** "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." To Appear in 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
 
 - <ins>Guangxin He</ins>, Shen Nie, Fengqi Zhu, Yuankang Zhao, <ins>Tianyi Bai</ins>, <ins>Ran Yan</ins>, Jie Fu, Chongxuan Li, and **Binhang Yuan** "UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
@@ -73,13 +73,13 @@ My main research focuses are data management for machine learning and distribute
 
 - <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Zhuoming Chen, Haohui Mai, Beidi Chen, and **Binhang Yuan**."FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- <ins>Youhe Jiang</ins>\*, Fangcheng Fu\*, Wanru Zhao\*, Stephan Rabanser, Jintao Zhang, Nicholas D. Lane, and **Binhang Yuan** "Cascadia: An Efficient Cascade Serving System for Large Language Models" To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- <ins>Youhe Jiang</ins>\*, Fangcheng Fu\*, Wanru Zhao\*, Stephan Rabanser, Jintao Zhang, Nicholas D. Lane, and **Binhang Yuan** "Cascadia: An Efficient Cascade Serving System for Large Language Models." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- Lingfei Zeng, Fengdi Che, Xuhan Huang, Fei Ye, <ins>Xu Xu</ins>, **Binhang Yuan**, and Jie Fu "VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally" To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- Lingfei Zeng, Fengdi Che, Xuhan Huang, Fei Ye, <ins>Xu Xu</ins>, **Binhang Yuan**, and Jie Fu "VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- <ins>Fangyu Ding</ins>, Ding Ding, Sijin Chen, Kaibo Wang, Peng Xu, Zijin Feng, Haoli Bai, Kai Han, Youliang Yan, **Binhang Yuan**, and Jiacheng Sun "Beyond Masks: Efficient, Flexible Diffusion Language Models via Deletion-Insertion Processes" To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- <ins>Fangyu Ding</ins>, Ding Ding, Sijin Chen, Kaibo Wang, Peng Xu, Zijin Feng, Haoli Bai, Kai Han, Youliang Yan, **Binhang Yuan**, and Jiacheng Sun "Beyond Masks: Efficient, Flexible Diffusion Language Models via Deletion-Insertion Processes." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- <ins>Xu Xu</ins>\*, Xin Li\*, Xingwei Qu, Jie Fu, and **Binhang Yuan** "Local Success Does Not Compose: Benchmarking Large Language Models for Compositional Formal Verification" To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- <ins>Xu Xu</ins>\*, Xin Li\*, Xingwei Qu, Jie Fu, and **Binhang Yuan** "Local Success Does Not Compose: Benchmarking Large Language Models for Compositional Formal Verification." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
 - Wei Fu, Jiaxuan Gao, Xujie Shen, Chen Zhu, Zhiyu Mei, Chuyi He, Shusheng Xu, Guo Wei, Jun Mei, <ins>Jiashu Wang</ins>, Tongkai Yang, **Binhang Yuan**, and Yi Wu. “AReaL: Asynchronous Reinforcement Learning for Efficient and Scalable Language Reasoning." In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
