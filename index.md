@@ -9,13 +9,14 @@ layout: default
 I am an assistant professor in the [Department of Computer Science & Engineering (CSE)](https://cse.hkust.edu.hk/), also affiliated with [World Sustainable Development Institute](https://wsdi-dev.webhost.hkust.edu.hk/), at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am recruiting Ph.D. students to work on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am mainly focusing on recruiting students to work at the intersection between ML systems and high-performance hardware (GPU, TPU, NPU, etc) to support LLM services (including inference, training, and RL alignment) and large-scale AI4Science (especially climate-related areas) computation over heterogeneous AI chips.** Please contact me by email with your latest resume if you are interested in joining us.
 
 Before joining HKUST, I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
-I completed my Ph.D. program in the Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis]([publications/Thesis.pdf](files/2020-PhD-Thesis.pdf)). I got my master degree from the Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and a bachelor degree from the Computer Science Department at Fudan University guided by [Prof. Bo Yan](https://faculty.fudan.edu.cn/yanbo/en/index.htm) for research. 
+I completed my Ph.D. program in the Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis]([publications/Thesis.pdf](files/2020-PhD-Thesis.pdf)). I got my master degree from the Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and a bachelor degree from the Computer Science Department at Fudan University, guided by [Prof. Bo Yan](https://faculty.fudan.edu.cn/yanbo/en/index.htm) for research. 
 
 
 # Teaching
 
-- COMP4091Y (Spring 2024, [Spring 2025](https://github.com/Relaxed-System-Lab/HKUST-COMP4901Y-2025spring))
-- COMP6211J ([Fall 2024](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST))
+- COMP4551 ([Spring 2026](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring))
+- COMP4091Y (Spring 2024, Spring 2025)
+- COMP6211J (Fall 2024, Fall 2025)
 
 
 # Current Group Members
@@ -64,6 +65,8 @@ My main research focuses are data management for machine learning and distribute
 
 
 # Selected Publications
+
+- <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan** "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL" To Appear in the 42nd IEEE International Conference on Data Engineering. (ICDE 2026)
 
 - <ins>Ran Yan</ins>\*, <ins>Youhe Jiang </ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan** "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." To Appear in 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
 
