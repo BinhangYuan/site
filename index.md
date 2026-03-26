@@ -84,6 +84,8 @@ My main research focuses are data management for machine learning and distribute
 
 - <ins>Xu Xu</ins>\*, Xin Li\*, Xingwei Qu, Jie Fu, and **Binhang Yuan** "Local Success Does Not Compose: Benchmarking Large Language Models for Compositional Formal Verification." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
+- <ins>Yuxiang Huang</ins>, **Binhang Yuan**, Xu Han, Chaojun Xiao, and Zhiyuan Liu. "Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads on Consumer-Grade Devices"  in Transactions on Machine Learning Research, 2025. (*TMLR 2025*)
+
 - Wei Fu, Jiaxuan Gao, Xujie Shen, Chen Zhu, Zhiyu Mei, Chuyi He, Shusheng Xu, Guo Wei, Jun Mei, <ins>Jiashu Wang</ins>, Tongkai Yang, **Binhang Yuan**, and Yi Wu. “AReaL: Asynchronous Reinforcement Learning for Efficient and Scalable Language Reasoning." In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
 - <ins>Chenyue Li</ins>, Wen Deng, Mengqian Lu, and **Binhang Yuan**. “AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science” In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
