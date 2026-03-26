@@ -66,7 +66,9 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
-- <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan** "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL" To Appear in the 42nd IEEE International Conference on Data Engineering. (*ICDE 2026*)
+- Xiaozhe Yao, <ins>Youhe Jiang</ins>, Ilia Badanin, Qinghao Hu, **Binhang Yuan**, Imanol Schlag, Eiko Yoneki, and Ana Klimovic. "LLMFabric: Unifying Decentralized HPC Clusters for Heterogeneous LLM Serving" To Appear in 20th USENIX Symposium on Operating Systems Design and Implementation, 2026. (*OSDI 2026*) 
+
+- <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan** "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL" To Appear in the 42nd IEEE International Conference on Data Engineering, 2026. (*ICDE 2026*)
 
 - <ins>Ran Yan</ins>\*, <ins>Youhe Jiang </ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan** "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." To Appear in 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
 
