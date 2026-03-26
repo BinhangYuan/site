@@ -19,7 +19,7 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - COMP6211J (Fall 2024, Fall 2025)
 
 
-# Current Group Members
+# Current Group Members at CSE, HKUST
 
 ### PhD Students:
 
@@ -38,15 +38,9 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - Daifeng Li (2026-Fall, BS@University of Science and Technology of China)
 - Wenshuang Li (2026-Fall, BS@Tsinghua University)
 
-### MPhil Students:
-
-- Hyeonjae Kim (2024-Fall, BS@Hong Kong University of Science and Technology)
-- Jiashu Wang (2024-Spring, BS@Peking University)
-
 ### Research Assistants:
 - [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@University of Cambridge)
-- [Guanduo Chen](https://woooooow-pro.github.io/) (BS,MS@Fudan University)
-
+  
 
 # Research Interests
 
