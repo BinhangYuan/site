@@ -60,11 +60,13 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
+- <ins>Chenyue Li</ins>\*, <ins>Hyeonjae Kim</ins>\*, Wen Deng, Mengxi Jin, Wen Huang, Mengqian Lu, and **Binhang Yuan**. "ClimateAgent: Multi-Agent Orchestration for Complex Climate Data Science Workflows" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
+
 - Xiaozhe Yao, <ins>Youhe Jiang</ins>, Ilia Badanin, Qinghao Hu, **Binhang Yuan**, Imanol Schlag, Eiko Yoneki, and Ana Klimovic. "LLMFabric: Unifying Decentralized HPC Clusters for Heterogeneous LLM Serving" To Appear in 20th USENIX Symposium on Operating Systems Design and Implementation, 2026. (*OSDI 2026*) 
 
 - <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan** "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL" To Appear in the 42nd IEEE International Conference on Data Engineering, 2026. (*ICDE 2026*)
 
-- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang </ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan** "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." To Appear in 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
+- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan** "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." To Appear in 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
 
 - <ins>Guangxin He</ins>, Shen Nie, Fengqi Zhu, Yuankang Zhao, <ins>Tianyi Bai</ins>, <ins>Ran Yan</ins>, Jie Fu, Chongxuan Li, and **Binhang Yuan** "UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models." To Appear in the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
