@@ -6,7 +6,7 @@ layout: default
 
 # About Me  
 
-I am an assistant professor in the [Department of Computer Science & Engineering (CSE)](https://cse.hkust.edu.hk/), also affiliated with [World Sustainable Development Institute](https://wsdi-dev.webhost.hkust.edu.hk/), at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am working on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am mainly focusing on recruiting top talent students to work on [AReaL system](https://github.com/inclusionAI/AReaL).** Please email me your latest resume if you are interested in joining us.
+I am an assistant professor in the [Department of Computer Science & Engineering (CSE)](https://cse.hkust.edu.hk/), also affiliated with [World Sustainable Development Institute](https://wsdi-dev.webhost.hkust.edu.hk/), at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am working on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am mainly focusing on recruiting top talent students to work on [AReaL](https://github.com/inclusionAI/AReaL) as AReaL open source community Co-Founder.** Please email me your latest resume if you are interested in joining us.
 
 Before joining HKUST, I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
 I completed my Ph.D. program in the Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis]([publications/Thesis.pdf](files/2020-PhD-Thesis.pdf)). I got my master degree from the Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and a bachelor degree from the Computer Science Department at Fudan University. 
@@ -49,7 +49,7 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Talks
 
-- 2024 AI Tide Tianchi AI Developer Workshop @ HKUST "2024 - Accommodating LLM Service over Heterogeneous Computational Resources" [[Slides](files/2024-Heterogeneous%20LLM%20Service-Alibaba-HKUST.pdf)].
+- 2024 AI Tide Tianchi AI Developer Workshop @ HKUST "Accommodating LLM Service over Heterogeneous Computational Resources" [[Slides](files/2024-Heterogeneous%20LLM%20Service-Alibaba-HKUST.pdf)].
 
 - 2024 Huawei STW @ Shenzhen “On the Opportunities of Designing the Next Generation of Collective Communication Libraries for AI-centric Workflows” [[Slides](files/2024-Heterogeneous%20LLM%20Service-Huawei-STW.pdf)].
   
