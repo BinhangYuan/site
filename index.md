@@ -49,6 +49,8 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Talks
 
+- 2026 PyTorch Foundation Meeting @ Ant Group “AReaL 2.0: From Efficient RL Post-Training to Comprehensive Agentic Data Platform” [[Slides](files/2026%20-%20AReaL%202.0-Ant%20Group.pdf)].
+
 - 2024 AI Tide Tianchi AI Developer Workshop @ HKUST "Accommodating LLM Service over Heterogeneous Computational Resources" [[Slides](files/2024-Heterogeneous%20LLM%20Service-Alibaba-HKUST.pdf)].
 
 - 2024 Huawei STW @ Shenzhen “On the Opportunities of Designing the Next Generation of Collective Communication Libraries for AI-centric Workflows” [[Slides](files/2024-Heterogeneous%20LLM%20Service-Huawei-STW.pdf)].
@@ -62,7 +64,7 @@ My main research focuses are data management for machine learning and distribute
 
 - <ins>Youhe Jiang</ins>\*, <ins>Wenshuang Li</ins>\*, <ins>You Peng</ins>, Jintao Zhang, <ins>Ran Yan</ins>, Jianfei Chen, Xu Han, Fangcheng Fu, and **Binhang Yuan**. “HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling” To Appear in the International Conference on Machine Learning. (*ICML 2026*)
 
-- Chonghao Zhong, Shi Linfeng, ChenHua, Tiecheng Sun, Hao Zhao, **Binhang Yuan**, and Chaojian Li. "Scalable Training of 3D Gaussian Splatting via Out-of-Core Optimization" To Appear in the International Conference on Machine Learning. (*ICML 2026*)
+- Chonghao Zhong, Shi Linfeng, ChenHua, Tiecheng Sun, Hao Zhao, **Binhang Yuan**, and Chaojian Li. "Scalable Training of 3D Gaussian Splatting via Out-of-Core Optimization" To Appear in the International Conference on Machine Learning. (*ICML 2026*  <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
 
 - Haobo Lin\*, <ins>Tianyi Bai</ins>\*, Chen Chen, Jiajun Zhang, Bohan Zeng, Wentao Zhang, and **Binhang Yuan**. "Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code" To Appear in the International Conference on Machine Learning. (*ICML 2026*)
 
