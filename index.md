@@ -70,7 +70,7 @@ My main research focuses are data management for machine learning and distribute
 
 - Haobo Lin\*, <ins>Tianyi Bai</ins>\*, Chen Chen, Jiajun Zhang, Bohan Zeng, Wentao Zhang, and **Binhang Yuan**. "Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code" To Appear in the International Conference on Machine Learning. (*ICML 2026*)
 
-- <ins>Jiarui Zhang</ins>\*, Yuchen Yang\*, <ins>Ran Yan</ins>, Zhiyu Mei, Liyuan Zhang, <ins>LiDaifeng</ins>, Wei Fu, Jiaxuan Gao, Shusheng Xu, Yi Wu, and **Binhang Yuan**. "AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models" To Appear in the International Conference on Machine Learning. (*ICML 2026*)
+- <ins>Jiarui Zhang</ins>\*, Yuchen Yang\*, <ins>Ran Yan</ins>, Zhiyu Mei, Liyuan Zhang, <ins>Daifeng Li</ins>, Wei Fu, Jiaxuan Gao, Shusheng Xu, Yi Wu, and **Binhang Yuan**. "AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models" To Appear in the International Conference on Machine Learning. (*ICML 2026*)
 
 - Chuanhao Yan, Fengdi Che, Xuhan Huang, <ins>Xu Xu</ins>, Xin Li, Yizhi Li, Xingwei Qu, Jingzhe Shi, Chenghua Lin, Yaodong Yang, **Binhang Yuan**, Hang Zhao, Yu Qiao, Bowen Zhou, and Jie Fu. "Re:Form —— Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
 
