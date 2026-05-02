@@ -6,7 +6,7 @@ layout: default
 
 # About Me  
 
-I am an assistant professor in the [Department of Computer Science & Engineering (CSE)](https://cse.hkust.edu.hk/), also affiliated with [World Sustainable Development Institute](https://wsdi-dev.webhost.hkust.edu.hk/), at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am working on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am mainly focusing on recruiting top talent students to work on [AReaL](https://github.com/inclusionAI/AReaL) as AReaL open source community Co-Founder.** Please email me your latest resume if you are interested in joining us.
+I am an assistant professor in the [Department of Computer Science & Engineering (CSE)](https://cse.hkust.edu.hk/), also affiliated with [World Sustainable Development Institute](https://wsdi-dev.webhost.hkust.edu.hk/), at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am working on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am mainly focusing on recruiting top talent students to work on the [AReaL](https://github.com/inclusionAI/AReaL) framework** as the AReaL open-source community Co-Founder. Please email me your latest resume if you are interested in joining us.
 
 Before joining HKUST, I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
 I completed my Ph.D. program in the Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis]([publications/Thesis.pdf](files/2020-PhD-Thesis.pdf)). I got my master degree from the Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and a bachelor degree from the Computer Science Department at Fudan University. 
@@ -62,6 +62,8 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Publications
 
+### 2026
+
 - <ins>Youhe Jiang</ins>\*, <ins>Wenshuang Li</ins>\*, <ins>You Peng</ins>, Jintao Zhang, <ins>Ran Yan</ins>, Jianfei Chen, Xu Han, Fangcheng Fu, and **Binhang Yuan**. “HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling” To Appear in the International Conference on Machine Learning. (*ICML 2026*)
 
 - Chonghao Zhong, Shi Linfeng, ChenHua, Tiecheng Sun, Hao Zhao, **Binhang Yuan**, and Chaojian Li. "Scalable Training of 3D Gaussian Splatting via Out-of-Core Optimization" To Appear in the International Conference on Machine Learning. (*ICML 2026*  <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
@@ -70,27 +72,31 @@ My main research focuses are data management for machine learning and distribute
 
 - <ins>Jiarui Zhang</ins>\*, Yuchen Yang\*, <ins>Ran Yan</ins>, Zhiyu Mei, Liyuan Zhang, <ins>LiDaifeng</ins>, Wei Fu, Jiaxuan Gao, Shusheng Xu, Yi Wu, and **Binhang Yuan**. "AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models" To Appear in the International Conference on Machine Learning. (*ICML 2026*)
 
+- Chuanhao Yan, Fengdi Che, Xuhan Huang, <ins>Xu Xu</ins>, Xin Li, Yizhi Li, Xingwei Qu, Jingzhe Shi, Chenghua Lin, Yaodong Yang, **Binhang Yuan**, Hang Zhao, Yu Qiao, Bowen Zhou, and Jie Fu. "Re:Form —— Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
+
 - <ins>Chenyue Li</ins>\*, <ins>Hyeonjae Kim</ins>\*, Wen Deng, Mengxi Jin, Wen Huang, Mengqian Lu, and **Binhang Yuan**. "ClimateAgent: Multi-Agent Orchestration for Complex Climate Data Science Workflows" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
 
 - Xiaozhe Yao, <ins>Youhe Jiang</ins>, Ilia Badanin, Qinghao Hu, **Binhang Yuan**, Imanol Schlag, Eiko Yoneki, and Ana Klimovic. "LLMFabric: Unifying Decentralized HPC Clusters for Heterogeneous LLM Serving" To Appear in 20th USENIX Symposium on Operating Systems Design and Implementation, 2026. (*OSDI 2026*) 
 
-- <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan** "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL" To Appear in the 42nd IEEE International Conference on Data Engineering, 2026. (*ICDE 2026*)
+- <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan**. "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL" To Appear in the 42nd IEEE International Conference on Data Engineering, 2026. (*ICDE 2026*)
 
-- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan** "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." In 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
+- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan**. "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." In 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
 
-- <ins>Guangxin He</ins>, Shen Nie, Fengqi Zhu, Yuankang Zhao, <ins>Tianyi Bai</ins>, <ins>Ran Yan</ins>, Jie Fu, Chongxuan Li, and **Binhang Yuan** "UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- <ins>Guangxin He</ins>, Shen Nie, Fengqi Zhu, Yuankang Zhao, <ins>Tianyi Bai</ins>, <ins>Ran Yan</ins>, Jie Fu, Chongxuan Li, and **Binhang Yuan**. "UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- Di Chai, Pengbo Li, Feiyuan Zhang, Yilun Jin, Han Tian, Kaiqiang Xu, **Binhang Yuan**, Dian Shen, Junxue Zhang, and Kai Chen "Unlocking Full Efficiency of Token Filtering in Large Language Model Training." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- Di Chai, Pengbo Li, Feiyuan Zhang, Yilun Jin, Han Tian, Kaiqiang Xu, **Binhang Yuan**, Dian Shen, Junxue Zhang, and Kai Chen. "Unlocking Full Efficiency of Token Filtering in Large Language Model Training." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Zhuoming Chen, Haohui Mai, Beidi Chen, and **Binhang Yuan**."FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Zhuoming Chen, Haohui Mai, Beidi Chen, and **Binhang Yuan**. "FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- <ins>Youhe Jiang</ins>\*, Fangcheng Fu\*, Wanru Zhao\*, Stephan Rabanser, Jintao Zhang, Nicholas D. Lane, and **Binhang Yuan** "Cascadia: An Efficient Cascade Serving System for Large Language Models." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- <ins>Youhe Jiang</ins>\*, Fangcheng Fu\*, Wanru Zhao\*, Stephan Rabanser, Jintao Zhang, Nicholas D. Lane, and **Binhang Yuan**. "Cascadia: An Efficient Cascade Serving System for Large Language Models." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- Lingfei Zeng, Fengdi Che, Xuhan Huang, Fei Ye, <ins>Xu Xu</ins>, **Binhang Yuan**, and Jie Fu "VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- Lingfei Zeng, Fengdi Che, Xuhan Huang, Fei Ye, <ins>Xu Xu</ins>, **Binhang Yuan**, and Jie Fu. "VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- <ins>Fangyu Ding</ins>, Ding Ding, Sijin Chen, Kaibo Wang, Peng Xu, Zijin Feng, Haoli Bai, Kai Han, Youliang Yan, **Binhang Yuan**, and Jiacheng Sun "Beyond Masks: Efficient, Flexible Diffusion Language Models via Deletion-Insertion Processes." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- <ins>Fangyu Ding</ins>, Ding Ding, Sijin Chen, Kaibo Wang, Peng Xu, Zijin Feng, Haoli Bai, Kai Han, Youliang Yan, **Binhang Yuan**, and Jiacheng Sun. "Beyond Masks: Efficient, Flexible Diffusion Language Models via Deletion-Insertion Processes." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
-- <ins>Xu Xu</ins>\*, Xin Li\*, Xingwei Qu, Jie Fu, and **Binhang Yuan** "Local Success Does Not Compose: Benchmarking Large Language Models for Compositional Formal Verification." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+- <ins>Xu Xu</ins>\*, Xin Li\*, Xingwei Qu, Jie Fu, and **Binhang Yuan**. "Local Success Does Not Compose: Benchmarking Large Language Models for Compositional Formal Verification." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
+
+### 2025
 
 - <ins>Yuxiang Huang</ins>, **Binhang Yuan**, Xu Han, Chaojun Xiao, and Zhiyuan Liu. "Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads on Consumer-Grade Devices"  in Transactions on Machine Learning Research, 2025. (*TMLR 2025*)
 
@@ -108,7 +114,7 @@ My main research focuses are data management for machine learning and distribute
 
 - <ins>Youhe Jiang</ins>, Fangcheng Fu, Xiaozhe Yao, Guoliang HE, Xupeng Miao, Ana Klimovic, Bin Cui, **Binhang Yuan**, and Eiko Yoneki. "Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs." In the International Conference on Machine Learning. (*ICML 2025*)
 
-- <ins>Tianyi Bai</ins>, Ling Yang, ZhenHao Wong, Fupeng Sun, Xinlin Zhuang, Jiahui Peng, Chi Zhang, Lijun Wu, Jiantao Qiu, Wentao Zhang, **Binhang Yuan**, and Conghui He "Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration." In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, pp. 9465-9491. (*ACL 2025*).
+- <ins>Tianyi Bai</ins>, Ling Yang, ZhenHao Wong, Fupeng Sun, Xinlin Zhuang, Jiahui Peng, Chi Zhang, Lijun Wu, Jiantao Qiu, Wentao Zhang, **Binhang Yuan**, and Conghui He. "Efficient Pretraining Data Selection for Language Models via Multi-Actor Collaboration." In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, pp. 9465-9491. (*ACL 2025*).
 
 - Suyi Li, Hanfeng Lu, Tianyuan Wu, Minchen Yu, Qizhen Weng, Xusheng Chen, Yizhou Shan, **Binhang Yuan**, and Wei Wang. “Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM  Inference.” In the 2025 USENIX Annual Technical Conference, pp. 613-629. (*ATC 2025*). 
 
@@ -122,6 +128,8 @@ My main research focuses are data management for machine learning and distribute
 
 - Yongjun He, Roger Waleffe, Zhichao Han, Johnu George, **Binhang Yuan**, Zitao Zhang, Yinan Shan, Yang Zhao, Debojyoti Dutta, Theodoros Rekatsinas, and Ce Zhang. "MLKV: Efficiently Scaling up Large Embedding Model Training with Disk-based Key-Value Storage." In the 41st IEEE International Conference on Data Engineering, pp. 4134-4141. 2025 (*ICDE 2025*)
 
+### 2024
+
 - Xinyu Zhao\*, Guoheng Sun\*, Ruisi Cai\*, <ins>Yukun Zhou</ins>\*, Pingzhi Li\*, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, **Binhang Yuan**, Hongyi Wang, Ang Li, Zhangyang Wang, and Tianlong Chen. "Model-Glue: Democratized LLM Scaling for A Large Model Zoo in the Wild." In Advances in Neural Information Processing Systems 38 (2024), 13349-13371. (*NeurIPS 2024*)
 
 - <ins>Youhe Jiang</ins>\*, <ins>Ran Yan</ins>\*, Xiaozhe Yao\*, Yang Zhou, Beidi Chen, and **Binhang Yuan**. "HexGen: Generative Inference of Large-Scale Foundation Model over Heterogeneous Decentralized Environment. " In International Conference on Machine Learning (pp. 21946-21961). PMLR. (*ICML 2024*)
@@ -130,6 +138,8 @@ My main research focuses are data management for machine learning and distribute
 
 - Alexandre E Eichenberger, Qi Lin, Saif Masood; Hong Min, Alex Sim, Yida Wang, Kesheng Wu, **Binhang Yuan**, Lixi Zhou, and Jia Zou. "Serving Deep Learning Model in Relational Databases." In 27th International Conference on Extending Database Technology 2024. EDBT, pp. 717-724. (*EDBT 2024*)
 
+### 2023
+
 - Ying Sheng, Lianmin Zheng, **Binhang Yuan**, Zhuohan Li, Max Ryabinin, Beidi Chen, Percy Liang, Christopher Ré, Ion Stoica, and Ce Zhang. "High-throughput Generative Inference of Large Language Models with a Single GPU." In International Conference on Machine Learning (pp. 31094-31116). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
 
 - Zichang Liu, Jue Wang, Tri Dao, Tianyi Zhou, **Binhang Yuan**, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen. "Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time." In International Conference on Machine Learning (pp. 22137-22176). PMLR. (*ICML 2023* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>).
@@ -137,6 +147,8 @@ My main research focuses are data management for machine learning and distribute
 - Jue Wang, Yucheng Lu, **Binhang Yuan**, Beidi Chen, Percy Liang, Christopher De Sa, Christopher Ré, and Ce Zhang. "CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks." In International Conference on Machine Learning (pp. 36058-36076). PMLR. (*ICML 2023*）
 
 - Yuxin Tang, Zhimin Ding, Dimitrije Jankov, **Binhang Yuan**, Daniel Bourgeois, and Chris Jermaine. "Auto-Differentiation of Relational Computations for Very Large Scale Machine Learning." In International Conference on Machine Learning (pp. 33581-33598). PMLR. (*ICML 2023*)
+
+### 2022 and Before 
 
 - **Binhang Yuan\***, Yongjun He\*, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re, and Ce Zhang. “Decentralized Training of Foundation Models in Heterogeneous Environments.” In Advances in Neural Information Processing Systems 36 (2022), 25464-25477. (*NeurIPS 2022* <strong><em><span style="color:red"> Selected as Oral</span></em></strong>)
 
@@ -191,10 +203,10 @@ My main research focuses are data management for machine learning and distribute
 - Conference:
   - *AAAI Reviewer*: 2020, 2021
   - *ICDE Publication and Proceedings Chair*: 2025
-  - *ICLR Reviewer*: 2022, 2023, 2024, 2025
-  - *ICML Reviewer*: 2021, 2022, 2023, 2024, 2025
-  - *MLsys Reviewer*: 2024, 2025, *Symposium Organizer*: 2023, *AE PC member*: 2022
-  - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023, *AC*: 2024, 2025
+  - *ICLR Reviewer*: 2022, 2023, 2024, 2025, *AC*: 2026
+  - *ICML Reviewer*: 2021, 2022, 2023, 2024, 2025, 2026
+  - *MLsys Reviewer*: 2024, 2025, 2026, *Symposium Organizer*: 2023, *AE PC member*: 2022
+  - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023, *AC*: 2024, 2025, 2026
   
 
 - Journal: 
