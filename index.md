@@ -64,6 +64,8 @@ My main research focuses are data management for machine learning and distribute
 
 ### 2026
 
+- <ins>Zipeng Qiu</ins>\*, Wenjie Qu\*, Jiaheng Zhang, and **Binhang Yuan**. "V3DB: Audit-on-Demand Zero-Knowledge Proofs for Verifiable Vector Search over Committed Snapshots" To Appear in In Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
+
 - <ins>Youhe Jiang</ins>\*, <ins>Wenshuang Li</ins>\*, <ins>You Peng</ins>, Jintao Zhang, <ins>Ran Yan</ins>, Jianfei Chen, Xu Han, Fangcheng Fu, and **Binhang Yuan**. “HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling” To Appear in the International Conference on Machine Learning. (*ICML 2026*)
 
 - Chonghao Zhong, Shi Linfeng, ChenHua, Tiecheng Sun, Hao Zhao, **Binhang Yuan**, and Chaojian Li. "Scalable Training of 3D Gaussian Splatting via Out-of-Core Optimization" To Appear in the International Conference on Machine Learning. (*ICML 2026*  <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
@@ -78,7 +80,7 @@ My main research focuses are data management for machine learning and distribute
 
 - Xiaozhe Yao, <ins>Youhe Jiang</ins>, Ilia Badanin, Qinghao Hu, **Binhang Yuan**, Imanol Schlag, Eiko Yoneki, and Ana Klimovic. "LLMFabric: Unifying Decentralized HPC Clusters for Heterogeneous LLM Serving" To Appear in 20th USENIX Symposium on Operating Systems Design and Implementation, 2026. (*OSDI 2026*) 
 
-- <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan**. "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL" To Appear in the 42nd IEEE International Conference on Data Engineering, 2026. (*ICDE 2026*)
+- <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan**. "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL" In the 42nd IEEE International Conference on Data Engineering, 2026. (*ICDE 2026*)
 
 - <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan**. "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." In 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
 
