@@ -24,7 +24,6 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 ### PhD Students:
 
 - [Ran Yan](https://ran-yan-hk.github.io/) (2023-Fall, BS@Peking University)
-- [Tianyi Bai](https://beccabai.github.io/) (2023-Fall, BS@Beijing Institute of Technology)
 - [Fangyu Ding](https://dingfangyu.github.io) (2024-Fall, BS,MS@Shanghai Jiao Tong University)
 - [Guangxin He](https://heguangxin.github.io/) (2024-Fall, BS@University of Chinese Academy of Sciences, MS@Chinese Academy of Sciences)
 - [Zipeng Qiu](https://tabibitoqzp.github.io) (2024-Fall, BS@Fudan University)
@@ -40,7 +39,10 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 
 ### Research Assistants:
 - [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@University of Cambridge)
-  
+
+
+# Honorable Alumni
+- [Tianyi Bai](https://beccabai.github.io/) (PhD 2026, first employment: tech lead@Tencent)
 
 # Research Interests
 
@@ -66,17 +68,19 @@ My main research focuses are data management for machine learning and distribute
 
 ### 2026
 
-- <ins>Zipeng Qiu</ins>\*, Wenjie Qu\*, Jiaheng Zhang, and **Binhang Yuan**. "V3DB: Audit-on-Demand Zero-Knowledge Proofs for Verifiable Vector Search over Committed Snapshots" To Appear in In Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
+- <ins>Zipeng Qiu</ins>\*, Wenjie Qu\*, Jiaheng Zhang, and **Binhang Yuan**. "V3DB: Audit-on-Demand Zero-Knowledge Proofs for Verifiable Vector Search over Committed Snapshots" To Appear in Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
 
-- <ins>Youhe Jiang</ins>\*, <ins>Wenshuang Li</ins>\*, <ins>You Peng</ins>, Jintao Zhang, <ins>Ran Yan</ins>, Jianfei Chen, Xu Han, Fangcheng Fu, and **Binhang Yuan**. “HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling” To Appear in the International Conference on Machine Learning. (*ICML 2026*)
+- <ins>Youhe Jiang</ins>\*, <ins>Wenshuang Li</ins>\*, <ins>You Peng</ins>, Jintao Zhang, <ins>Ran Yan</ins>, Jianfei Chen, Xu Han, Fangcheng Fu, and **Binhang Yuan**. “HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling” in the International Conference on Machine Learning. (*ICML 2026*)
 
-- Chonghao Zhong, Shi Linfeng, ChenHua, Tiecheng Sun, Hao Zhao, **Binhang Yuan**, and Chaojian Li. "Scalable Training of 3D Gaussian Splatting via Out-of-Core Optimization" To Appear in the International Conference on Machine Learning. (*ICML 2026*  <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
+- Chonghao Zhong, Linfeng Shi, Chen Hua, Tiecheng Sun, Hao Zhao, **Binhang Yuan**, and Chaojian Li. "Scalable Training of 3D Gaussian Splatting via Out-of-Core Optimization" in the International Conference on Machine Learning. (*ICML 2026*  <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
 
-- Haobo Lin\*, <ins>Tianyi Bai</ins>\*, Chen Chen, Jiajun Zhang, Bohan Zeng, Wentao Zhang, and **Binhang Yuan**. "Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code" To Appear in the International Conference on Machine Learning. (*ICML 2026*)
+- Haobo Lin\*, <ins>Tianyi Bai</ins>\*, Chen Chen, Jiajun Zhang, Bohan Zeng, Wentao Zhang, and **Binhang Yuan**. "Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code" in the International Conference on Machine Learning. (*ICML 2026*)
 
-- <ins>Jiarui Zhang</ins>\*, Yuchen Yang\*, <ins>Ran Yan</ins>, Zhiyu Mei, Liyuan Zhang, <ins>Daifeng Li</ins>, Wei Fu, Jiaxuan Gao, Shusheng Xu, Yi Wu, and **Binhang Yuan**. "AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models" To Appear in the International Conference on Machine Learning. (*ICML 2026*)
+- <ins>Jiarui Zhang</ins>\*, Yuchen Yang\*, <ins>Ran Yan</ins>, Zhiyu Mei, Liyuan Zhang, <ins>Daifeng Li</ins>, Wei Fu, Jiaxuan Gao, Shusheng Xu, Yi Wu, and **Binhang Yuan**. "AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models" in the International Conference on Machine Learning. (*ICML 2026*)
 
-- Chuanhao Yan, Fengdi Che, Xuhan Huang, <ins>Xu Xu</ins>, Xin Li, Yizhi Li, Xingwei Qu, Jingzhe Shi, Chenghua Lin, Yaodong Yang, **Binhang Yuan**, Hang Zhao, Yu Qiao, Bowen Zhou, and Jie Fu. "Re:Form —— Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
+- <ins>Guangxin He</ins>\*, Yuan Cao\*, Yutong He, <ins>Tianyi Bai</ins>, Kai Chen, Kun Yuan, and **Binhang Yuan** "TAH-Quant: Effective Activation Quantization in Pipeline Parallelism over Slow Network" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
+
+- Chuanhao Yan, Fengdi Che, Xuhan Huang, <ins>Xu Xu</ins>, Xin Li, Yizhi Li, Xingwei Qu, Jingzhe Shi, Chenghua Lin, Yaodong Yang, **Binhang Yuan**, Hang Zhao, Yu Qiao, Bowen Zhou, and Jie Fu. "Re:Form — Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
 
 - <ins>Chenyue Li</ins>\*, <ins>Hyeonjae Kim</ins>\*, Wen Deng, Mengxi Jin, Wen Huang, Mengqian Lu, and **Binhang Yuan**. "ClimateAgent: Multi-Agent Orchestration for Complex Climate Data Science Workflows" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
 
