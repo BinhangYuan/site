@@ -68,27 +68,29 @@ My main research focuses are data management for machine learning and distribute
 
 ### 2026
 
-- <ins>Zipeng Qiu</ins>\*, Wenjie Qu\*, Jiaheng Zhang, and **Binhang Yuan**. "V3DB: Audit-on-Demand Zero-Knowledge Proofs for Verifiable Vector Search over Committed Snapshots" To Appear in Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
+- <ins>Ding Pan</ins>, Zhuangzhuang Zhou, Long Qian and **Binhang Yuan**. "Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines." To Appear in Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
 
-- <ins>Youhe Jiang</ins>\*, <ins>Wenshuang Li</ins>\*, <ins>You Peng</ins>, Jintao Zhang, <ins>Ran Yan</ins>, Jianfei Chen, Xu Han, Fangcheng Fu, and **Binhang Yuan**. “HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling” in the International Conference on Machine Learning. (*ICML 2026*)
+- <ins>Zipeng Qiu</ins>\*, Wenjie Qu\*, Jiaheng Zhang, and **Binhang Yuan**. "V3DB: Audit-on-Demand Zero-Knowledge Proofs for Verifiable Vector Search over Committed Snapshots." To Appear in Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
 
-- Chonghao Zhong, Linfeng Shi, Chen Hua, Tiecheng Sun, Hao Zhao, **Binhang Yuan**, and Chaojian Li. "Scalable Training of 3D Gaussian Splatting via Out-of-Core Optimization" in the International Conference on Machine Learning. (*ICML 2026*  <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
+- <ins>Youhe Jiang</ins>\*, <ins>Wenshuang Li</ins>\*, <ins>You Peng</ins>, Jintao Zhang, <ins>Ran Yan</ins>, Jianfei Chen, Xu Han, Fangcheng Fu, and **Binhang Yuan**. “HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling.” In the International Conference on Machine Learning. (*ICML 2026*)
+
+- Chonghao Zhong, Linfeng Shi, Chen Hua, Tiecheng Sun, Hao Zhao, **Binhang Yuan**, and Chaojian Li. "Scalable Training of 3D Gaussian Splatting via Out-of-Core Optimization." In the International Conference on Machine Learning. (*ICML 2026*  <strong><em><span style="color:red"> Selected as Spotlight</span></em></strong>)
 
 - Haobo Lin\*, <ins>Tianyi Bai</ins>\*, Chen Chen, Jiajun Zhang, Bohan Zeng, Wentao Zhang, and **Binhang Yuan**. "Synthesizing Multimodal Geometry Datasets from Scratch and Enabling Visual Alignment via Plotting Code" in the International Conference on Machine Learning. (*ICML 2026*)
 
-- <ins>Jiarui Zhang</ins>\*, Yuchen Yang\*, <ins>Ran Yan</ins>, Zhiyu Mei, Liyuan Zhang, <ins>Daifeng Li</ins>, Wei Fu, Jiaxuan Gao, Shusheng Xu, Yi Wu, and **Binhang Yuan**. "AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models" in the International Conference on Machine Learning. (*ICML 2026*)
+- <ins>Jiarui Zhang</ins>\*, Yuchen Yang\*, <ins>Ran Yan</ins>, Zhiyu Mei, Liyuan Zhang, <ins>Daifeng Li</ins>, Wei Fu, Jiaxuan Gao, Shusheng Xu, Yi Wu, and **Binhang Yuan**. "AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models." In the International Conference on Machine Learning. (*ICML 2026*)
 
-- <ins>Guangxin He</ins>\*, Yuan Cao\*, Yutong He, <ins>Tianyi Bai</ins>, Kai Chen, Kun Yuan, and **Binhang Yuan** "TAH-Quant: Effective Activation Quantization in Pipeline Parallelism over Slow Network" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
+- <ins>Guangxin He</ins>\*, Yuan Cao\*, Yutong He, <ins>Tianyi Bai</ins>, Kai Chen, Kun Yuan, and **Binhang Yuan** "TAH-Quant: Effective Activation Quantization in Pipeline Parallelism over Slow Network." In Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
 
-- Chuanhao Yan, Fengdi Che, Xuhan Huang, <ins>Xu Xu</ins>, Xin Li, Yizhi Li, Xingwei Qu, Jingzhe Shi, Chenghua Lin, Yaodong Yang, **Binhang Yuan**, Hang Zhao, Yu Qiao, Bowen Zhou, and Jie Fu. "Re:Form — Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
+- Chuanhao Yan, Fengdi Che, Xuhan Huang, <ins>Xu Xu</ins>, Xin Li, Yizhi Li, Xingwei Qu, Jingzhe Shi, Chenghua Lin, Yaodong Yang, **Binhang Yuan**, Hang Zhao, Yu Qiao, Bowen Zhou, and Jie Fu. "Re:Form — Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny." In Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
 
-- <ins>Chenyue Li</ins>\*, <ins>Hyeonjae Kim</ins>\*, Wen Deng, Mengxi Jin, Wen Huang, Mengqian Lu, and **Binhang Yuan**. "ClimateAgent: Multi-Agent Orchestration for Complex Climate Data Science Workflows" in Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
+- <ins>Chenyue Li</ins>\*, <ins>Hyeonjae Kim</ins>\*, Wen Deng, Mengxi Jin, Wen Huang, Mengqian Lu, and **Binhang Yuan**. "ClimateAgent: Multi-Agent Orchestration for Complex Climate Data Science Workflows." In Transactions on Machine Learning Research, 2026. (*TMLR 2026*)
 
-- Xiaozhe Yao, <ins>Youhe Jiang</ins>, Ilia Badanin, Qinghao Hu, **Binhang Yuan**, Imanol Schlag, Eiko Yoneki, and Ana Klimovic. "LLMFabric: Unifying Decentralized HPC Clusters for Heterogeneous LLM Serving" To Appear in 20th USENIX Symposium on Operating Systems Design and Implementation, 2026. (*OSDI 2026*) 
+- Xiaozhe Yao, <ins>Youhe Jiang</ins>, Ilia Badanin, Qinghao Hu, **Binhang Yuan**, Imanol Schlag, Eiko Yoneki, and Ana Klimovic. "LLMFabric: Unifying Decentralized HPC Clusters for Heterogeneous LLM Serving." In 20th USENIX Symposium on Operating Systems Design and Implementation, 2026. (*OSDI 2026*) 
 
-- <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan**. "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL" In the 42nd IEEE International Conference on Data Engineering, 2026. (*ICDE 2026*)
+- <ins>You Peng</ins>\*, <ins>Youhe Jiang</ins>\*, Wenqi Jiang, Chen Wang, and **Binhang Yuan**. "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL." In the 42nd IEEE International Conference on Data Engineering, 2026. (*ICDE 2026*)
 
-- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan**. "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." In 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
+- <ins>Ran Yan</ins>\*, <ins>Youhe Jiang</ins>\*, Xiaonan Nie, Fangcheng Fu, Bin Cui, and **Binhang Yuan**. "HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware." In the 9th Annual Conference on Machine Learning and Systems (*MLSys 2026*)
 
 - <ins>Guangxin He</ins>, Shen Nie, Fengqi Zhu, Yuankang Zhao, <ins>Tianyi Bai</ins>, <ins>Ran Yan</ins>, Jie Fu, Chongxuan Li, and **Binhang Yuan**. "UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models." In the 14th International Conference on Learning Representations 2026. (*ICLR 2026*)
 
