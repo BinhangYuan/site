@@ -68,6 +68,10 @@ My main research focuses are data management for machine learning and distribute
 
 ### 2026
 
+- <ins>Haohui Mai</ins>, Xiaoyan Guo, Xiangyun Ding, <ins>Daifeng Li</ins>, Qiuchu Yu, Chenzhun Guo, Cong Wang, Jiacheng Zhao, Christos Kozyrakis, and **Binhang Yuan**.
+"Guiding Agentic GPU Kernel Optimization with Data Flow Invariants." To Appear in the 32nd ACM SIGOPS Symposium on Operating Systems Principles. (*SOSP 2026*)
+
+
 - <ins>Ding Pan</ins>, Zhuangzhuang Zhou, Long Qian and **Binhang Yuan**. "Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines." To Appear in Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
 
 - <ins>Zipeng Qiu</ins>\*, Wenjie Qu\*, Jiaheng Zhang, and **Binhang Yuan**. "V3DB: Audit-on-Demand Zero-Knowledge Proofs for Verifiable Vector Search over Committed Snapshots." To Appear in Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
