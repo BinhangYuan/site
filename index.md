@@ -51,7 +51,7 @@ My main research focuses are data management for machine learning and distribute
 
 # Selected Talks
 
-- 2026 UW Seminar "On the Opportunities of Exploiting LLM Agents for ML System Design and Implementation" [[Slides](files/20260716%20-%20Exploiting-LLM-Agents-for-ML-System-Design-and-Implementation.pdf)].
+- 2026 UW/ Rice/ Georgia Tech Seminars "On the Opportunities of Exploiting LLM Agents for ML System Design and Implementation" [[Slides](files/20260831%20-%20Roadmap%20and%20On%20the%20Opportunities%20of%20Exploiting%20LLM%20Agents%20for%20ML%20System%20Design%20and%20Implementation.pdf)].
 
 - 2026 PyTorch Foundation Meeting @ Ant Group “AReaL 2.0: From Efficient RL Post-Training to Comprehensive Agentic Data Platform” [[Slides](files/2026%20-%20AReaL%202.0-Ant%20Group.pdf)].
 
