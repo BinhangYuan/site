@@ -36,6 +36,8 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - [Xiaochen Ma](https://ma.xiaochen.world/) (2026-Spring, BS@Sichuan University)
 - Daifeng Li (2026-Fall, BS@University of Science and Technology of China)
 - Wenshuang Li (2026-Fall, BS@Tsinghua University)
+- Jiarui Zhang (2027-Fall, BS@Tsinghua University)
+- Ka Chun Mok (2027-Fall, BS@The Hong Kong University of Science and Technology)
 
 ### Research Assistants:
 - [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@University of Cambridge)
@@ -68,11 +70,16 @@ My main research focuses are data management for machine learning and distribute
 
 ### 2026
 
+- Pengbo Li, Feiyuan Zhang, Guangming Sheng, Guangxin He, Di Chai, Ziniu Li, Taiqiang Wu, Han Tian, Wenyu Mao, **Binhang Yuan**, Kai Chen. "PrefixFlow: Training-Time KV Caching for Schedule-Level Prefix Reuse in LLM RL Training." To Appear in the 1st ACM SIGOPS Annual Technical Conference. (*ATC 2026*). 
+
+- Dong Chen, Yukun Zhou, Sheng Yao, Ruichuan Chen, **Binhang Yuan**, Shuai Wang, Luping Wang, Cheng Huang, Guodong Yang, Liping Zhang, Wei Wang. "Chorus: GPU–CPU Cooperative LLM Serving for Length-Skewed Decode." To Appear in the 1st ACM SIGOPS Annual Technical Conference. (*ATC 2026*). 
+
+- Haoyu Zheng, Fangcheng Fu, Jia Wu, **Binhang Yuan**, Yongqiang Zhang, Hao Wang, Yuanyuan Zhu, Xiao Yan, Jiawei Jiang. "Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management." To Appear in Advances in Neural Information Processing Systems 40 (2026). (*NeurIPS 2026*)
+
 - <ins>Haohui Mai</ins>, Xiaoyan Guo, Xiangyun Ding, <ins>Daifeng Li</ins>, Qiuchu Yu, Chenzhun Guo, Cong Wang, Jiacheng Zhao, Christos Kozyrakis, and **Binhang Yuan**.
-"Guiding Agentic GPU Kernel Optimization with Data Flow Invariants." To Appear in the 32nd ACM SIGOPS Symposium on Operating Systems Principles. (*SOSP 2026*)
+"Guiding Agentic GPU Kernel Optimization with Data Flow Invariants." In the 32nd ACM SIGOPS Symposium on Operating Systems Principles. (*SOSP 2026*)
 
-
-- <ins>Ding Pan</ins>, Zhuangzhuang Zhou, Long Qian and **Binhang Yuan**. "Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines." To Appear in Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
+- <ins>Ding Pan</ins>, Zhuangzhuang Zhou, Long Qian and **Binhang Yuan**. "Trident: Adaptive Scheduling for Heterogeneous Multimodal Data Pipelines." In Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
 
 - <ins>Zipeng Qiu</ins>\*, Wenjie Qu\*, Jiaheng Zhang, and **Binhang Yuan**. "V3DB: Audit-on-Demand Zero-Knowledge Proofs for Verifiable Vector Search over Committed Snapshots." To Appear in Proceedings of the VLDB Endowment, 19(12). (*VLDB 2026*) 
 
@@ -116,7 +123,7 @@ My main research focuses are data management for machine learning and distribute
 
 - Wei Fu, Jiaxuan Gao, Xujie Shen, Chen Zhu, Zhiyu Mei, Chuyi He, Shusheng Xu, Guo Wei, Jun Mei, <ins>Jiashu Wang</ins>, Tongkai Yang, **Binhang Yuan**, and Yi Wu. “AReaL: Asynchronous Reinforcement Learning for Efficient and Scalable Language Reasoning." In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
-- <ins>Chenyue Li</ins>, Wen Deng, Mengqian Lu, and **Binhang Yuan**. “AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science” In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
+- <ins>Chenyue Li</ins>, Wen Deng, Mengqian Lu, and **Binhang Yuan**. “AtmosSci-Bench: Evaluating the Recent Advance of Large Language Model for Atmospheric Science.” In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
 - <ins>Tianyi Bai</ins>, Zengjie Hu, Fupeng Sun, Qiu Jiantao, Yizhen Jiang, <ins>Guangxin He</ins>, Bohan Zeng, Conghui He, **Binhang Yuan**, and Wentao Zhang. "Multi-step Visual Reasoning with Visual Tokens Scaling and Verification." In Advances in Neural Information Processing Systems 39 (2025). (*NeurIPS 2025*)
 
