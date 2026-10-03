@@ -6,7 +6,7 @@ layout: default
 
 # About Me  
 
-I am an assistant professor in the [Department of Computer Science & Engineering (CSE)](https://cse.hkust.edu.hk/), also affiliated with [World Sustainable Development Institute](https://wsdi-dev.webhost.hkust.edu.hk/), at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am working on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am mainly focusing on recruiting top talent students to work on the [AReaL](https://github.com/inclusionAI/AReaL) framework** as the AReaL open-source community Co-Founder. Please email me your latest resume if you are interested in joining us.
+I am an assistant professor in the [Department of Computer Science & Engineering (CSE)](https://cse.hkust.edu.hk/), also affiliated with [World Sustainable Development Institute](https://wsdi-dev.webhost.hkust.edu.hk/), at the Hong Kong University of Science and Technology (HKUST). I am leading the [Relaxed System Lab](https://github.com/Relaxed-System-Lab). I am working on research topics, including machine learning for data management and distributed/decentralized machine learning systems. **Currently, I am coordinating research for [AReaL](https://github.com/inclusionAI/AReaL) framework** as the AReaL open-source community Co-Founder. Please email me your concrete plan if you are interested in contributing to the community.
 
 Before joining HKUST, I was a Postdoctoral Researcher in the Computer Science Department at ETH Zurich, under the supervision of [Prof. Ce Zhang](https://zhangce.github.io/).
 I completed my Ph.D. program in the Computer Science Department at Rice University. My adviser was [Prof. Chris Jermaine](https://www.cs.rice.edu/~cmj4/) and I was co-advised by [Prof. Anastasios Kyrillidis](https://akyrillidis.github.io/) for my [Ph.D. thesis]([publications/Thesis.pdf](files/2020-PhD-Thesis.pdf)). I got my master degree from the Computer Science Department at Rice University, supervised by [Prof. Ron Goldman](https://www.cs.rice.edu/~rng/), and a bachelor degree from the Computer Science Department at Fudan University. 
@@ -39,12 +39,11 @@ I completed my Ph.D. program in the Computer Science Department at Rice Universi
 - Jiarui Zhang (2027-Fall, BS@Tsinghua University)
 - Ka Chun Mok (2027-Fall, BS@The Hong Kong University of Science and Technology)
 
-### Research Assistants:
-- [Youhe Jiang](https://youhe-jiang.github.io/) (Now PhD@University of Cambridge)
-
 
 # Honorable Alumni
+- [Youhe Jiang](https://youhe-jiang.github.io/) (RA 2026, PhD@University of Cambridge)
 - [Tianyi Bai](https://beccabai.github.io/) (PhD 2026, first employment: tech lead@Tencent)
+ 
 
 # Research Interests
 
@@ -224,7 +223,7 @@ My main research focuses are data management for machine learning and distribute
 - Conference:
   - *AAAI Reviewer*: 2020, 2021
   - *ICDE Publication and Proceedings Chair*: 2025
-  - *ICLR Reviewer*: 2022, 2023, 2024, 2025, *AC*: 2026
+  - *ICLR Reviewer*: 2022, 2023, 2024, 2025, *AC*: 2026, 2027
   - *ICML Reviewer*: 2021, 2022, 2023, 2024, 2025, 2026
   - *MLsys Reviewer*: 2024, 2025, 2026, *Symposium Organizer*: 2023, *AE PC member*: 2022
   - *NeurIPS Reviewer*: 2020, 2021, 2022, 2023, *AC*: 2024, 2025, 2026
